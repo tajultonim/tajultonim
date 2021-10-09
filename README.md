@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey whatsup? 👋
 ---
-don't know anything
+😪😪😪😪😪😪
 ---
 
 ![Takrim's github stats](https://github-readme-stats.vercel.app/api?username=tajultonim&count_private=true&show_icons=true)
