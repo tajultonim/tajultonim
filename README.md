@@ -89,8 +89,3 @@ Physics graduate exploring **scientific computing, software engineering, web dev
 - Facebook: https://facebook.com/tajultonim
 
 ---
-
-## ⚡ Fun Fact
-
-Physics taught me how the universe works.  
-Programming lets me **build my own universes.**
