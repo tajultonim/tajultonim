@@ -25,37 +25,6 @@ Physics graduate exploring **scientific computing, software engineering, web dev
 - C++
 - Julia
 
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🛠 Technologies
-
-- JavaScript
-- TypeScript
-- Python
-- C++
-
-</td>
-
-<td width="50%" valign="top">
-
-## ⚙️ Frameworks / Libraries
-
-- Node.js
-- Svelte
-- Express
-- Socket.IO
-
-</td>
-</tr>
-</table>
-
----
-
-
 **Software Frameworks / Libraries**
 
 - Node.js
