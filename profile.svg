@@ -1,59 +1,48 @@
-<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Card background -->
-  <rect width="900" height="300" rx="12" fill="#161b22"/>
-  <rect width="900" height="300" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
+<svg width="900" height="310" viewBox="0 0 900 310" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="310" rx="12" fill="#161b22"/>
+  <rect width="900" height="310" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
 
   <!-- Terminal bar -->
-  <rect width="900" height="40" rx="12" fill="#0d1117"/>
-  <rect x="0" y="28" width="900" height="12" fill="#0d1117"/>
-  <rect x="0" y="39" width="900" height="1" fill="#21262d"/>
+  <rect width="900" height="42" rx="12" fill="#0d1117"/>
+  <rect x="0" y="30" width="900" height="12" fill="#0d1117"/>
+  <rect x="0" y="41" width="900" height="1" fill="#21262d"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="21" r="6" fill="#28c840"/>
+  <text x="450" y="26" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" fill="#8b949e" text-anchor="middle">profile.yml</text>
 
-  <!-- Traffic lights -->
-  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
-  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
-  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <!-- line numbers -->
+  <text x="22" y="70"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">1</text>
+  <text x="22" y="91"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">2</text>
+  <text x="22" y="112" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">3</text>
+  <text x="22" y="133" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">4</text>
+  <text x="22" y="154" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">5</text>
+  <text x="22" y="175" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">6</text>
+  <text x="22" y="196" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">7</text>
+  <text x="22" y="217" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">8</text>
+  <text x="22" y="238" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">9</text>
+  <text x="14" y="259" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">10</text>
+  <text x="14" y="280" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">11</text>
 
-  <!-- Filename -->
-  <text x="450" y="25" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="middle">profile.yml</text>
+  <!-- line number divider -->
+  <line x1="46" y1="50" x2="46" y2="296" stroke="#21262d" stroke-width="1"/>
+
+  <!-- active line highlight -->
+  <rect x="47" y="262" width="853" height="20" rx="2" fill="rgba(0,217,255,0.04)"/>
 
   <!-- YAML content -->
-  <!-- Line 1 -->
-  <text x="32" y="72" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#ff7b72">name</tspan><tspan fill="#79c0ff">:</tspan><tspan fill="#e6edf3">       </tspan><tspan fill="#a5d6ff">H.M. Tajul Islam Tanim</tspan>
-  </text>
-  <!-- Line 2 -->
-  <text x="32" y="94" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#ff7b72">alias</tspan><tspan fill="#79c0ff">:</tspan><tspan fill="#e6edf3">      </tspan><tspan fill="#a5d6ff">tajultonim</tspan>
-  </text>
-  <!-- Line 3 -->
-  <text x="32" y="116" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#ff7b72">role</tspan><tspan fill="#79c0ff">:</tspan><tspan fill="#e6edf3">       </tspan><tspan fill="#a5d6ff">Physics Undergraduate → Systems / Backend Engineer</tspan>
-  </text>
-  <!-- Line 4 -->
-  <text x="32" y="138" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#ff7b72">location</tspan><tspan fill="#79c0ff">:</tspan><tspan fill="#e6edf3">   </tspan><tspan fill="#a5d6ff">Dhaka, Bangladesh 🇧🇩</tspan>
-  </text>
-  <!-- Line 5 blank -->
-  <text x="32" y="160" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#ff7b72">focus</tspan><tspan fill="#79c0ff">:</tspan>
-  </text>
-  <!-- focus items -->
-  <text x="32" y="180" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">-</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#3fb950">Scientific Computing</tspan><tspan fill="#8b949e">       # Julia, Python, HPC</tspan>
-  </text>
-  <text x="32" y="200" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">-</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#00d9ff">Distributed Systems</tspan><tspan fill="#8b949e">        # Consensus, replication</tspan>
-  </text>
-  <text x="32" y="220" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">-</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#d2a8ff">Real-Time Engineering</tspan><tspan fill="#8b949e">      # WebSockets, WebRTC</tspan>
-  </text>
-  <text x="32" y="240" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">-</tspan><tspan fill="#e6edf3"> </tspan><tspan fill="#3fb950">High Performance Computing</tspan><tspan fill="#8b949e"> # Parallelism, SIMD</tspan>
-  </text>
-  <!-- Line philosophy -->
-  <text x="32" y="262" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13">
-    <tspan fill="#ff7b72">status</tspan><tspan fill="#79c0ff">:</tspan><tspan fill="#e6edf3">     </tspan><tspan fill="#a5d6ff">Building systems that move data fast and scale well</tspan>
-  </text>
-  <!-- cursor blink placeholder -->
-  <rect x="32" y="275" width="8" height="14" fill="#00d9ff" opacity="0.8" rx="1"/>
+  <text x="58" y="70"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">name</tspan><tspan fill="#79c0ff">:       </tspan><tspan fill="#a5d6ff">H.M. Tajul Islam Tanim</tspan></text>
+  <text x="58" y="91"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">alias</tspan><tspan fill="#79c0ff">:      </tspan><tspan fill="#a5d6ff">tajultonim</tspan></text>
+  <text x="58" y="112" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">role</tspan><tspan fill="#79c0ff">:       </tspan><tspan fill="#a5d6ff">Physics Undergraduate → Systems / Backend Engineer</tspan></text>
+  <text x="58" y="133" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">location</tspan><tspan fill="#79c0ff">:   </tspan><tspan fill="#a5d6ff">Dhaka, Bangladesh 🇧🇩</tspan></text>
+  <text x="58" y="154" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">focus</tspan><tspan fill="#79c0ff">:</tspan></text>
+  <text x="58" y="175" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#3fb950">Scientific Computing</tspan><tspan fill="#3b4048">       # Julia, Python, HPC</tspan></text>
+  <text x="58" y="196" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#00d9ff">Distributed Systems</tspan><tspan fill="#3b4048">        # Consensus, replication, fault-tolerance</tspan></text>
+  <text x="58" y="217" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#d2a8ff">Real-Time Engineering</tspan><tspan fill="#3b4048">      # WebSockets, WebRTC, low-latency pipelines</tspan></text>
+  <text x="58" y="238" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#3fb950">High Performance Computing</tspan><tspan fill="#3b4048"> # Parallelism, SIMD, numerical methods</tspan></text>
+  <text x="58" y="259" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">status</tspan><tspan fill="#79c0ff">:     </tspan><tspan fill="#a5d6ff">Building systems that move data fast and scale well</tspan></text>
+  <text x="58" y="280" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">mindset</tspan><tspan fill="#79c0ff">:    </tspan><tspan fill="#a5d6ff">Physics shapes thinking. Engineering shapes what I build.</tspan></text>
+
+  <!-- cursor -->
+  <rect x="58" y="289" width="8" height="13" rx="1" fill="#00d9ff" opacity="0.85"/>
 </svg>

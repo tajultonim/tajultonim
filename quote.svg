@@ -1,33 +1,30 @@
-<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="148" viewBox="0 0 900 148" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:0.6"/>
-      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#00d9ff;stop-opacity:0.6"/>
-    </linearGradient>
-    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="100%" style="stop-color:#161b22"/>
+    <linearGradient id="bord" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#00d9ff" stop-opacity="0.7"/>
+      <stop offset="70%"  stop-color="#a78bfa" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
-  <rect width="900" height="140" rx="12" fill="url(#bgG)"/>
-  <rect width="900" height="140" rx="12" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <rect width="900" height="148" rx="12" fill="#161b22"/>
+  <rect width="900" height="148" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
 
-  <!-- Top accent line -->
-  <rect x="350" y="0" width="200" height="2" rx="1" fill="url(#borderGrad)"/>
+  <!-- gradient top/bottom lines -->
+  <line x1="50" y1="1"   x2="850" y2="1"   stroke="url(#bord)" stroke-width="2"/>
+  <line x1="50" y1="147" x2="850" y2="147" stroke="url(#bord)" stroke-width="2"/>
 
-  <!-- Big quote marks -->
-  <text x="42" y="64" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#00d9ff" opacity="0.15">"</text>
+  <!-- big decorative quote mark -->
+  <text x="36" y="88" font-family="Georgia, serif" font-size="80" fill="#00d9ff" opacity="0.08">"</text>
 
-  <!-- Quote text line 1 -->
-  <text x="450" y="54" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#c9d1d9" text-anchor="middle">The best way to understand a system is to build one.</text>
-  <!-- Quote text line 2 -->
-  <text x="450" y="76" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#c9d1d9" text-anchor="middle">The best way to build one is to understand the physics.</text>
+  <!-- quote text -->
+  <text x="450" y="54" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#c9d1d9" text-anchor="middle">The best way to understand a system is to build one.</text>
+  <text x="450" y="76" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" fill="#c9d1d9" text-anchor="middle">The best way to build one is to understand the physics.</text>
 
-  <!-- Attribution -->
-  <text x="450" y="104" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="middle">— H.M. Tajul Islam Tanim  ·  Bangladesh 🇧🇩  ·  Physics × Engineering</text>
+  <!-- attribution -->
+  <text x="450" y="106" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" fill="#8b949e" text-anchor="middle">— H.M. Tajul Islam Tanim</text>
 
-  <!-- Bottom accent line -->
-  <rect x="350" y="138" width="200" height="2" rx="1" fill="url(#borderGrad)"/>
+  <!-- sub-note -->
+  <text x="450" y="130" font-family="'JetBrains Mono','Courier New',monospace" font-size="10" fill="#3b4048" text-anchor="middle">Built with physics intuition, engineering precision, and too many terminal sessions · Bangladesh 🇧🇩</text>
 </svg>
