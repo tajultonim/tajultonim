@@ -1,0 +1,46 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M2 2L8 5L2 8" fill="none" stroke="#3b4048" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="120" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Client -->
+  <rect x="40" y="38" width="120" height="44" rx="6" fill="rgba(0,217,255,0.05)" stroke="rgba(0,217,255,0.25)" stroke-width="1"/>
+  <text x="100" y="57" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" font-weight="700" fill="#00d9ff" text-anchor="middle">Client</text>
+  <text x="100" y="73" font-family="'JetBrains Mono','Courier New',monospace" font-size="10" fill="#8b949e" text-anchor="middle">Browser</text>
+
+  <!-- Arrow bidirectional -->
+  <line x1="160" y1="57" x2="226" y2="57" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+  <line x1="226" y1="65" x2="160" y2="65" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+  <text x="193" y="50" font-family="'JetBrains Mono','Courier New',monospace" font-size="9" fill="#8b949e" text-anchor="middle">WebSocket</text>
+
+  <!-- Server -->
+  <rect x="228" y="30" width="160" height="60" rx="6" fill="rgba(210,168,255,0.05)" stroke="rgba(210,168,255,0.25)" stroke-width="1"/>
+  <text x="308" y="53" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" font-weight="700" fill="#d2a8ff" text-anchor="middle">Node.js</text>
+  <text x="308" y="69" font-family="'JetBrains Mono','Courier New',monospace" font-size="10" fill="#8b949e" text-anchor="middle">Express + Socket.IO</text>
+
+  <!-- Arrow to DB -->
+  <line x1="388" y1="60" x2="454" y2="60" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+  <text x="421" y="53" font-family="'JetBrains Mono','Courier New',monospace" font-size="9" fill="#8b949e" text-anchor="middle">SQL</text>
+
+  <!-- Database -->
+  <rect x="456" y="38" width="110" height="44" rx="6" fill="rgba(247,100,50,0.05)" stroke="rgba(247,100,50,0.25)" stroke-width="1"/>
+  <text x="511" y="57" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" font-weight="700" fill="#f78166" text-anchor="middle">Database</text>
+  <text x="511" y="73" font-family="'JetBrains Mono','Courier New',monospace" font-size="10" fill="#8b949e" text-anchor="middle">SQL</text>
+
+  <!-- Arrow down to Azure -->
+  <line x1="308" y1="90" x2="308" y2="100" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="308" y1="100" x2="680" y2="100" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="680" y1="100" x2="680" y2="90" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+
+  <!-- Azure -->
+  <rect x="620" y="38" width="120" height="44" rx="6" fill="rgba(0,120,212,0.05)" stroke="rgba(0,120,212,0.25)" stroke-width="1"/>
+  <text x="680" y="57" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" font-weight="700" fill="#4da6ff" text-anchor="middle">Azure</text>
+  <text x="680" y="73" font-family="'JetBrains Mono','Courier New',monospace" font-size="10" fill="#8b949e" text-anchor="middle">Cloud Host</text>
+
+  <!-- deploy label -->
+  <text x="494" y="97" font-family="'JetBrains Mono','Courier New',monospace" font-size="9" fill="#3b4048" text-anchor="middle">deployed to</text>
+</svg>
