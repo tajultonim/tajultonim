@@ -1,48 +1,128 @@
-<svg width="900" height="310" viewBox="0 0 900 310" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="310" rx="12" fill="#161b22"/>
-  <rect width="900" height="310" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Terminal bar -->
-  <rect width="900" height="42" rx="12" fill="#0d1117"/>
-  <rect x="0" y="30" width="900" height="12" fill="#0d1117"/>
-  <rect x="0" y="41" width="900" height="1" fill="#21262d"/>
-  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
-  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
-  <circle cx="66" cy="21" r="6" fill="#28c840"/>
-  <text x="450" y="26" font-family="'JetBrains Mono','Courier New',monospace" font-size="11" fill="#8b949e" text-anchor="middle">profile.yml</text>
+    <style>
+        .title {
+        font: bold 40px monospace;
+        fill: #58a6ff;
+        }
 
-  <!-- line numbers -->
-  <text x="22" y="70"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">1</text>
-  <text x="22" y="91"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">2</text>
-  <text x="22" y="112" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">3</text>
-  <text x="22" y="133" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">4</text>
-  <text x="22" y="154" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">5</text>
-  <text x="22" y="175" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">6</text>
-  <text x="22" y="196" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">7</text>
-  <text x="22" y="217" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">8</text>
-  <text x="22" y="238" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">9</text>
-  <text x="14" y="259" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">10</text>
-  <text x="14" y="280" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3b4048">11</text>
+        .subtitle {
+        font: 18px monospace;
+        fill: #c9d1d9;
+        }
 
-  <!-- line number divider -->
-  <line x1="46" y1="50" x2="46" y2="296" stroke="#21262d" stroke-width="1"/>
+        .box {
+        fill: #161b22;
+        stroke: #30363d;
+        stroke-width: 2;
+        rx: 12;
+        }
 
-  <!-- active line highlight -->
-  <rect x="47" y="262" width="853" height="20" rx="2" fill="rgba(0,217,255,0.04)"/>
+        .linkbox {
+        fill: #21262d;
+        stroke: #30363d;
+        rx: 10;
+        transition: all .3s;
+        }
 
-  <!-- YAML content -->
-  <text x="58" y="70"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">name</tspan><tspan fill="#79c0ff">:       </tspan><tspan fill="#a5d6ff">H.M. Tajul Islam Tanim</tspan></text>
-  <text x="58" y="91"  font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">alias</tspan><tspan fill="#79c0ff">:      </tspan><tspan fill="#a5d6ff">tajultonim</tspan></text>
-  <text x="58" y="112" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">role</tspan><tspan fill="#79c0ff">:       </tspan><tspan fill="#a5d6ff">Physics Undergraduate → Systems / Backend Engineer</tspan></text>
-  <text x="58" y="133" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">location</tspan><tspan fill="#79c0ff">:   </tspan><tspan fill="#a5d6ff">Dhaka, Bangladesh 🇧🇩</tspan></text>
-  <text x="58" y="154" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">focus</tspan><tspan fill="#79c0ff">:</tspan></text>
-  <text x="58" y="175" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#3fb950">Scientific Computing</tspan><tspan fill="#3b4048">       # Julia, Python, HPC</tspan></text>
-  <text x="58" y="196" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#00d9ff">Distributed Systems</tspan><tspan fill="#3b4048">        # Consensus, replication, fault-tolerance</tspan></text>
-  <text x="58" y="217" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#d2a8ff">Real-Time Engineering</tspan><tspan fill="#3b4048">      # WebSockets, WebRTC, low-latency pipelines</tspan></text>
-  <text x="58" y="238" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#e6edf3">  </tspan><tspan fill="#79c0ff">- </tspan><tspan fill="#3fb950">High Performance Computing</tspan><tspan fill="#3b4048"> # Parallelism, SIMD, numerical methods</tspan></text>
-  <text x="58" y="259" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">status</tspan><tspan fill="#79c0ff">:     </tspan><tspan fill="#a5d6ff">Building systems that move data fast and scale well</tspan></text>
-  <text x="58" y="280" font-family="'JetBrains Mono','Courier New',monospace" font-size="12"><tspan fill="#ff7b72">mindset</tspan><tspan fill="#79c0ff">:    </tspan><tspan fill="#a5d6ff">Physics shapes thinking. Engineering shapes what I build.</tspan></text>
+        .linkbox:hover {
+        fill: #30363d;
+        transform: scale(1.05);
+        }
 
-  <!-- cursor -->
-  <rect x="58" y="289" width="8" height="13" rx="1" fill="#00d9ff" opacity="0.85"/>
+        .label {
+        font: 16px monospace;
+        fill: #58a6ff;
+        }
+
+        .tech {
+        font: 14px monospace;
+        fill: #c9d1d9;
+        }
+    </style>
+
+    <rect width="100%" height="100%" fill="#0d1117" />
+
+    <!-- Title -->
+    <text x="50%" y="80" text-anchor="middle" class="title">
+        H.M. Tajul Islam Tanim
+    </text>
+
+    <text x="50%" y="110" text-anchor="middle" class="subtitle">
+        Physics • Scientific Computing • Machine Learning • Systems
+    </text>
+
+    <!-- About Box -->
+    <rect x="80" y="150" width="320" height="200" class="box" />
+
+    <text x="100" y="190" class="label">About</text>
+
+    <text x="100" y="220" class="tech">
+        Physics graduate exploring
+    </text>
+
+    <text x="100" y="240" class="tech">
+        computational science,
+    </text>
+
+    <text x="100" y="260" class="tech">
+        machine learning,
+    </text>
+
+    <text x="100" y="280" class="tech">
+        and backend systems.
+    </text>
+
+    <text x="100" y="320" class="tech">
+        Goal: MS → PhD in Engineering
+    </text>
+
+    <!-- Tech Stack -->
+    <rect x="480" y="150" width="320" height="200" class="box" />
+
+    <text x="500" y="190" class="label">Tech Stack</text>
+
+    <text x="500" y="220" class="tech">
+        Python • C/C++
+    </text>
+
+    <text x="500" y="240" class="tech">
+        JavaScript • TypeScript
+    </text>
+
+    <text x="500" y="260" class="tech">
+        Node • Svelte • Tailwind
+    </text>
+
+    <text x="500" y="280" class="tech">
+        Linux • Docker • Git
+    </text>
+
+    <text x="500" y="300" class="tech">
+        NumPy • SciPy • PyTorch
+    </text>
+
+    <!-- Interactive Links -->
+
+    <a href="https://github.com/tajultonim">
+        <rect x="180" y="380" width="150" height="50" class="linkbox" />
+        <text x="255" y="410" text-anchor="middle" class="tech">
+            GitHub
+        </text>
+    </a>
+
+    <a href="https://instagram.com">
+        <rect x="380" y="380" width="150" height="50" class="linkbox" />
+        <text x="455" y="410" text-anchor="middle" class="tech">
+            Mewmentum
+        </text>
+    </a>
+
+    <a href="https://github.com/tajultonim?tab=repositories">
+        <rect x="580" y="380" width="150" height="50" class="linkbox" />
+        <text x="655" y="410" text-anchor="middle" class="tech">
+            Projects
+        </text>
+    </a>
+
 </svg>
