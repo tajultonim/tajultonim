@@ -1,0 +1,41 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Card -->
+  <rect width="900" height="220" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Terminal bar -->
+  <rect width="900" height="40" rx="12" fill="#0d1117"/>
+  <rect x="0" y="28" width="900" height="12" fill="#0d1117"/>
+  <rect x="0" y="39" width="900" height="1" fill="#21262d"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="450" y="25" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="middle">bash  —  tanim@dev: ~</text>
+
+  <!-- prompt -->
+  <text x="28" y="66" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#3fb950">tanim@dev</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#00d9ff">~</tspan><tspan fill="#e6edf3">$ </tspan><tspan fill="#e6edf3">env | grep FUN_FACTS</tspan>
+  </text>
+
+  <text x="28" y="90" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#d2a8ff">FUN_FACTS[0]</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#a5d6ff">"Physics shaped how I debug — I treat bugs like unknown variables"</tspan>
+  </text>
+  <text x="28" y="110" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#d2a8ff">FUN_FACTS[1]</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#a5d6ff">"I enjoy building weird real-time systems at 2am when ideas hit"</tspan>
+  </text>
+  <text x="28" y="130" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#d2a8ff">FUN_FACTS[2]</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#a5d6ff">"Linux enthusiast — yes, I've tried Arch. Twice."</tspan>
+  </text>
+  <text x="28" y="150" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#d2a8ff">FUN_FACTS[3]</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#a5d6ff">"Julia + Python are my scientific computing power couple"</tspan>
+  </text>
+  <text x="28" y="170" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#d2a8ff">FUN_FACTS[4]</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#a5d6ff">"I think in graphs, queues, and state machines"</tspan>
+  </text>
+  <text x="28" y="190" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#d2a8ff">FUN_FACTS[5]</tspan><tspan fill="#8b949e">=</tspan><tspan fill="#a5d6ff">"Physics and distributed systems share the same math — coincidence?"</tspan>
+  </text>
+
+  <!-- cursor -->
+  <rect x="28" y="200" width="8" height="13" fill="#00d9ff" opacity="0.8" rx="1"/>
+</svg>

@@ -1,0 +1,90 @@
+<svg width="900" height="290" viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Card background -->
+  <rect width="900" height="290" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Header bar -->
+  <rect width="900" height="52" rx="12" fill="#0d1117"/>
+  <rect x="0" y="40" width="900" height="12" fill="#0d1117"/>
+  <rect x="0" y="51" width="900" height="1" fill="#21262d"/>
+
+  <!-- Dot lights -->
+  <circle cx="24" cy="26" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="26" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="26" r="6" fill="#28c840"/>
+
+  <!-- Project name -->
+  <text x="90" y="31" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="14" font-weight="700" fill="#00d9ff">💬 SneakyChat</text>
+
+  <!-- LIVE badge -->
+  <rect x="790" y="14" width="82" height="24" rx="12" fill="rgba(63,185,80,0.12)" stroke="rgba(63,185,80,0.35)" stroke-width="1"/>
+  <circle cx="804" cy="26" r="4" fill="#3fb950"/>
+  <text x="840" y="30" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="700" fill="#3fb950" text-anchor="middle">LIVE</text>
+
+  <!-- Description -->
+  <text x="28" y="78" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#8b949e">Real-time anonymous chat platform with moderation and reporting infrastructure</text>
+
+  <!-- Architecture section label -->
+  <text x="28" y="108" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" letter-spacing="1.5">ARCHITECTURE</text>
+  <line x1="160" y1="104" x2="872" y2="104" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- Architecture nodes -->
+  <!-- Client box -->
+  <rect x="28" y="120" width="110" height="50" rx="6" fill="rgba(0,217,255,0.06)" stroke="rgba(0,217,255,0.3)" stroke-width="1"/>
+  <text x="83" y="141" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#00d9ff" text-anchor="middle">Client</text>
+  <text x="83" y="158" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Browser</text>
+
+  <!-- Arrow 1: Client -> Server -->
+  <line x1="138" y1="145" x2="268" y2="145" stroke="#21262d" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <polygon points="268,140 278,145 268,150" fill="#21262d"/>
+  <line x1="278" y1="145" x2="278" y2="145" stroke="#21262d" stroke-width="1"/>
+  <!-- Arrow back -->
+  <line x1="278" y1="152" x2="138" y2="152" stroke="#21262d" stroke-width="1" stroke-dasharray="4,2"/>
+  <polygon points="138,147 128,152 138,157" fill="#21262d"/>
+  <!-- Label -->
+  <text x="203" y="138" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="middle">WebSocket</text>
+
+  <!-- Server box -->
+  <rect x="280" y="112" width="170" height="66" rx="6" fill="rgba(210,168,255,0.06)" stroke="rgba(210,168,255,0.3)" stroke-width="1"/>
+  <text x="365" y="136" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#d2a8ff" text-anchor="middle">Node.js Server</text>
+  <text x="365" y="154" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Express + Socket.IO</text>
+  <text x="365" y="170" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">TypeScript</text>
+
+  <!-- Arrow 2: Server -> DB -->
+  <line x1="450" y1="145" x2="548" y2="145" stroke="#21262d" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <polygon points="548,140 558,145 548,150" fill="#21262d"/>
+  <text x="500" y="138" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="middle">SQL Query</text>
+
+  <!-- DB box -->
+  <rect x="560" y="120" width="110" height="50" rx="6" fill="rgba(247,100,50,0.06)" stroke="rgba(247,100,50,0.3)" stroke-width="1"/>
+  <text x="615" y="141" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#f78166" text-anchor="middle">Database</text>
+  <text x="615" y="158" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">SQL</text>
+
+  <!-- Vertical arrow from server down to Azure -->
+  <line x1="365" y1="178" x2="365" y2="210" stroke="#21262d" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <polygon points="360,210 365,220 370,210" fill="#21262d"/>
+  <text x="380" y="200" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="9" fill="#8b949e">Cloud deploy</text>
+
+  <!-- Azure box -->
+  <rect x="280" y="222" width="170" height="44" rx="6" fill="rgba(0,120,212,0.08)" stroke="rgba(0,120,212,0.3)" stroke-width="1"/>
+  <text x="365" y="240" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#4da6ff" text-anchor="middle">Azure Cloud</text>
+  <text x="365" y="257" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" text-anchor="middle">Hosted Infrastructure</text>
+
+  <!-- Stack pills on right side -->
+  <text x="720" y="132" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8b949e" letter-spacing="1">STACK</text>
+  <rect x="700" y="140" width="82" height="22" rx="4" fill="rgba(63,185,80,0.08)" stroke="rgba(63,185,80,0.3)" stroke-width="1"/>
+  <text x="741" y="155" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="600" fill="#3fb950" text-anchor="middle">Node.js</text>
+
+  <rect x="700" y="170" width="82" height="22" rx="4" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <text x="741" y="185" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="600" fill="#cdd9e5" text-anchor="middle">Socket.IO</text>
+
+  <rect x="700" y="200" width="82" height="22" rx="4" fill="rgba(49,120,198,0.1)" stroke="rgba(49,120,198,0.35)" stroke-width="1"/>
+  <text x="741" y="215" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="600" fill="#60a5fa" text-anchor="middle">TypeScript</text>
+
+  <rect x="700" y="230" width="82" height="22" rx="4" fill="rgba(0,120,212,0.1)" stroke="rgba(0,120,212,0.35)" stroke-width="1"/>
+  <text x="741" y="245" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="600" fill="#4da6ff" text-anchor="middle">Azure</text>
+
+  <rect x="700" y="260" width="82" height="22" rx="4" fill="rgba(247,100,50,0.08)" stroke="rgba(247,100,50,0.3)" stroke-width="1"/>
+  <text x="741" y="275" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" font-weight="600" fill="#f78166" text-anchor="middle">SQL</text>
+
+</svg>

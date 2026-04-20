@@ -1,0 +1,62 @@
+<svg width="900" height="222" viewBox="0 0 900 222" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d9ff"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card -->
+  <rect width="900" height="222" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Terminal bar -->
+  <rect width="900" height="40" rx="12" fill="#0d1117"/>
+  <rect x="0" y="28" width="900" height="12" fill="#0d1117"/>
+  <rect x="0" y="39" width="900" height="1" fill="#21262d"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="450" y="25" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="middle">htop  —  tanim@dev</text>
+
+  <!-- Row 1 -->
+  <text x="28" y="72" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#00d9ff">[1]</tspan><tspan fill="#e6edf3">  real-time-chat-infrastructure</tspan>
+  </text>
+  <rect x="450" y="60" width="380" height="6" rx="3" fill="#21262d"/>
+  <rect x="450" y="60" width="323" height="6" rx="3" fill="url(#barGrad)"/>
+  <text x="846" y="71" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="end">85%</text>
+  <text x="872" y="71" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#3fb950">BUILD</text>
+
+  <!-- Row 2 -->
+  <text x="28" y="108" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#00d9ff">[2]</tspan><tspan fill="#e6edf3">  webrtc-p2p-image-transfer</tspan>
+  </text>
+  <rect x="450" y="96" width="380" height="6" rx="3" fill="#21262d"/>
+  <rect x="450" y="96" width="228" height="6" rx="3" fill="url(#barGrad)" opacity="0.85"/>
+  <text x="846" y="107" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="end">60%</text>
+  <text x="872" y="107" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#00d9ff">ACTIVE</text>
+
+  <!-- Row 3 -->
+  <text x="28" y="144" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#00d9ff">[3]</tspan><tspan fill="#e6edf3">  distributed-node-experiments</tspan>
+  </text>
+  <rect x="450" y="132" width="380" height="6" rx="3" fill="#21262d"/>
+  <rect x="450" y="132" width="152" height="6" rx="3" fill="url(#barGrad)" opacity="0.7"/>
+  <text x="846" y="143" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="end">40%</text>
+  <text x="872" y="143" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#d2a8ff">RESEARCH</text>
+
+  <!-- Row 4 -->
+  <text x="28" y="180" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12">
+    <tspan fill="#00d9ff">[4]</tspan><tspan fill="#e6edf3">  scalable-backend-architecture</tspan>
+  </text>
+  <rect x="450" y="168" width="380" height="6" rx="3" fill="#21262d"/>
+  <rect x="450" y="168" width="266" height="6" rx="3" fill="url(#barGrad)" opacity="0.75"/>
+  <text x="846" y="179" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e" text-anchor="end">70%</text>
+  <text x="872" y="179" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#f7a944">DESIGN</text>
+
+  <!-- Next milestone -->
+  <line x1="28" y1="196" x2="872" y2="196" stroke="#21262d" stroke-width="0.5"/>
+  <text x="28" y="213" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e">Next milestone</text>
+  <text x="122" y="213" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#8b949e"> → </text>
+  <text x="145" y="213" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#00d9ff">Ship WebRTC P2P transfer module</text>
+</svg>
