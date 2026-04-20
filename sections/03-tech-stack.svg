@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Tech Stack Section</title>
+  <desc id="desc">Languages, frameworks, and tools cards.</desc>
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .muted { fill: #8b949e; }
+      .text { fill: #e6edf3; }
+      .cyan { fill: #00d9ff; }
+      .chip { font-size: 14px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="350" fill="#0d1117"/>
+  <text x="40" y="38" class="mono cyan" font-size="18" font-weight="700" letter-spacing="2">TECH STACK</text>
+  <line x1="40" y1="52" x2="1160" y2="52" stroke="#21262d"/>
+
+  <g transform="translate(40 72)">
+    <rect width="550" height="240" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="24" y="34" class="mono muted" font-size="12" letter-spacing="1.4">LANGUAGES</text>
+    <text x="24" y="74" class="mono chip" fill="#f7df1e">JavaScript</text>
+    <text x="180" y="74" class="mono chip" fill="#60a5fa">TypeScript</text>
+    <text x="336" y="74" class="mono chip" fill="#57b6e6">Python</text>
+    <text x="460" y="74" class="mono chip" fill="#7aa2f7">C++</text>
+    <text x="24" y="106" class="mono chip" fill="#c084fc">Julia</text>
+
+    <text x="24" y="156" class="mono muted" font-size="12" letter-spacing="1.4">TOOLS &amp; INFRA</text>
+    <text x="24" y="188" class="mono text" font-size="14">Linux · Git · Azure · VSCode · Jupyter</text>
+    <text x="24" y="220" class="mono text" font-size="14">WebRTC · P2P · HPC · CompSci</text>
+  </g>
+
+  <g transform="translate(610 72)">
+    <rect width="550" height="240" rx="18" fill="#161b22" stroke="#21262d"/>
+    <text x="24" y="34" class="mono muted" font-size="12" letter-spacing="1.4">FRAMEWORKS</text>
+    <text x="24" y="74" class="mono chip" fill="#3fb950">Node.js</text>
+    <text x="140" y="74" class="mono chip" fill="#cdd9e5">Socket.IO</text>
+    <text x="280" y="74" class="mono chip" fill="#e2e8f0">Next.js</text>
+    <text x="390" y="74" class="mono chip" fill="#c084fc">Svelte</text>
+    <text x="490" y="74" class="mono chip" fill="#60a5fa" text-anchor="end">Tailwind</text>
+
+    <rect x="24" y="112" width="502" height="96" rx="12" fill="#0d1117" stroke="#21262d"/>
+    <text x="44" y="146" class="mono text" font-size="14">Distributed systems and realtime infra</text>
+    <text x="44" y="174" class="mono text" font-size="14">focus with scientific computing mindset.</text>
+  </g>
+</svg>

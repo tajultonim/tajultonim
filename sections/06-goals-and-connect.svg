@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Goals and Connect Section</title>
+  <desc id="desc">Long term goals and social links footer.</desc>
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .text { fill: #e6edf3; }
+      .muted { fill: #8b949e; }
+      .cyan { fill: #00d9ff; }
+      .green { fill: #3fb950; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <text x="40" y="38" class="mono cyan" font-size="18" font-weight="700" letter-spacing="2">LONG-TERM GOALS</text>
+  <line x1="40" y1="52" x2="1160" y2="52" stroke="#21262d"/>
+
+  <rect x="40" y="72" width="1120" height="188" rx="18" fill="#161b22" stroke="#21262d"/>
+  <text x="64" y="108" class="mono text" font-size="14">▸ Graduate research in scientific computing</text>
+  <text x="64" y="138" class="mono text" font-size="14">▸ Work on high-performance, low-latency systems</text>
+  <text x="64" y="168" class="mono text" font-size="14">▸ Build large-scale distributed infrastructure</text>
+  <text x="64" y="198" class="mono text" font-size="14">▸ Apply computation to real scientific problems</text>
+  <text x="64" y="228" class="mono text" font-size="14">▸ Bridge physics and computing at research scale</text>
+
+  <text x="40" y="288" class="mono muted" font-size="12">Connect: GitHub /tajultonim · Instagram /tajultonim · Facebook /tajultonim</text>
+  <text x="1160" y="288" class="mono green" font-size="12" text-anchor="end">From Bangladesh · Physics × Engineering</text>
+</svg>

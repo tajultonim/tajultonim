@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img"
+    aria-labelledby="title desc">
+    <title id="title">Currently Building Section</title>
+    <desc id="desc">Progress bars for active builds.</desc>
+    <defs>
+        <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#00d9ff" />
+            <stop offset="100%" stop-color="#6e40c9" />
+        </linearGradient>
+        <style>
+            .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+            .muted { fill: #8b949e; }
+            .text { fill: #e6edf3; }
+            .cyan { fill: #00d9ff; }
+        </style>
+    </defs>
+
+    <rect width="1200" height="340" fill="#0d1117" />
+    <text x="40" y="38" class="mono cyan" font-size="18" font-weight="700" letter-spacing="2">CURRENTLY
+        BUILDING</text>
+    <line x1="40" y1="52" x2="1160" y2="52" stroke="#21262d" />
+
+    <rect x="40" y="72" width="1120" height="240" rx="18" fill="#161b22" stroke="#21262d" />
+    <rect x="40" y="72" width="1120" height="46" rx="18" fill="#0d1117" stroke="#21262d" />
+    <circle cx="64" cy="95" r="6" fill="#ff5f57" />
+    <circle cx="86" cy="95" r="6" fill="#febc2e" />
+    <circle cx="108" cy="95" r="6" fill="#28c840" />
+    <text x="1130" y="102" class="mono muted" font-size="12" text-anchor="end">htop</text>
+
+    <text x="64" y="150" class="mono text" font-size="13">[1] Real-time chat infrastructure</text>
+    <rect x="400" y="140" width="680" height="10" rx="5" fill="#21262d" />
+    <rect x="400" y="140" width="578" height="10" rx="5" fill="url(#bar)" />
+    <text x="1100" y="150" class="mono muted" font-size="12" text-anchor="end">85%</text>
+
+    <text x="64" y="190" class="mono text" font-size="13">[2] WebRTC P2P image transfer</text>
+    <rect x="400" y="180" width="680" height="10" rx="5" fill="#21262d" />
+    <rect x="400" y="180" width="408" height="10" rx="5" fill="url(#bar)" />
+    <text x="1100" y="190" class="mono muted" font-size="12" text-anchor="end">60%</text>
+
+    <text x="64" y="230" class="mono text" font-size="13">[3] Distributed Node.js experiments</text>
+    <rect x="400" y="220" width="680" height="10" rx="5" fill="#21262d" />
+    <rect x="400" y="220" width="272" height="10" rx="5" fill="url(#bar)" />
+    <text x="1100" y="230" class="mono muted" font-size="12" text-anchor="end">40%</text>
+
+    <text x="64" y="270" class="mono text" font-size="13">[4] Scalable backend architecture</text>
+    <rect x="400" y="260" width="680" height="10" rx="5" fill="#21262d" />
+    <rect x="400" y="260" width="476" height="10" rx="5" fill="url(#bar)" />
+    <text x="1100" y="270" class="mono muted" font-size="12" text-anchor="end">70%</text>
+</svg>

@@ -1,243 +1,250 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2200" viewBox="0 0 1200 2200" role="img" aria-labelledby="title desc">
-  <title id="title">H.M. Tajul Islam Tanim README</title>
-  <desc id="desc">A GitHub-safe SVG profile banner with summary, skills, project, progress, goals, and social links.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="45%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#6e40c9"/>
-    </linearGradient>
-    <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#00d9ff"/>
-      <stop offset="100%" stop-color="#3fb950"/>
-    </linearGradient>
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.45 0"/>
-    </filter>
-    <style>
-      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
-      .sans { font-family: 'Syne', 'Segoe UI', Arial, sans-serif; }
-      .muted { fill: #8b949e; }
-      .text { fill: #e6edf3; }
-      .cyan { fill: #00d9ff; }
-      .purple { fill: #a78bfa; }
-      .green { fill: #3fb950; }
-      .card { fill: #161b22; stroke: #21262d; stroke-width: 1.5; }
-      .card2 { fill: #0d1117; stroke: #21262d; stroke-width: 1.5; }
-      .title { font-size: 44px; font-weight: 800; letter-spacing: -1px; }
-      .section { font-size: 18px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; fill: #00d9ff; }
-      .label { font-size: 18px; font-weight: 700; fill: #ff7b72; }
-      .value { font-size: 18px; fill: #a5d6ff; }
-      .small { font-size: 14px; }
-      .tiny { font-size: 12px; }
-      .chip { font-size: 14px; font-weight: 700; }
-    </style>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2200" viewBox="0 0 1200 2200"
+    role="img" aria-labelledby="title desc">
+    <title id="title">H.M. Tajul Islam Tanim README</title>
+    <desc id="desc">A GitHub-safe SVG profile banner with summary, skills, project, progress, goals,
+        and social links.</desc>
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0b1020" />
+            <stop offset="45%" stop-color="#0d1117" />
+            <stop offset="100%" stop-color="#111827" />
+        </linearGradient>
+        <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#00d9ff" />
+            <stop offset="100%" stop-color="#6e40c9" />
+        </linearGradient>
+        <linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#00d9ff" />
+            <stop offset="100%" stop-color="#3fb950" />
+        </linearGradient>
+        <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+            <feGaussianBlur stdDeviation="10" result="blur" />
+            <feColorMatrix in="blur" type="matrix"
+                values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.45 0" />
+        </filter>
+        <style>
+            .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+            .sans { font-family: 'Syne', 'Segoe UI', Arial, sans-serif; }
+            .muted { fill: #8b949e; }
+            .text { fill: #e6edf3; }
+            .cyan { fill: #00d9ff; }
+            .purple { fill: #a78bfa; }
+            .green { fill: #3fb950; }
+            .card { fill: #161b22; stroke: #21262d; stroke-width: 1.5; }
+            .card2 { fill: #0d1117; stroke: #21262d; stroke-width: 1.5; }
+            .title { font-size: 44px; font-weight: 800; letter-spacing: -1px; }
+            .section { font-size: 18px; font-weight: 700; letter-spacing: 2px; text-transform:
+            uppercase; fill: #00d9ff; }
+            .label { font-size: 18px; font-weight: 700; fill: #ff7b72; }
+            .value { font-size: 18px; fill: #a5d6ff; }
+            .small { font-size: 14px; }
+            .tiny { font-size: 12px; }
+            .chip { font-size: 14px; font-weight: 700; }
+        </style>
+    </defs>
 
-  <rect width="1200" height="2200" fill="url(#bg)"/>
-  <circle cx="190" cy="160" r="120" fill="#00d9ff" opacity="0.08" filter="url(#glow)"/>
-  <circle cx="1010" cy="300" r="180" fill="#6e40c9" opacity="0.10" filter="url(#glow)"/>
-  <circle cx="1030" cy="1780" r="160" fill="#3fb950" opacity="0.08" filter="url(#glow)"/>
+    <rect width="1200" height="2200" fill="url(#bg)" />
+    <circle cx="190" cy="160" r="120" fill="#00d9ff" opacity="0.08" filter="url(#glow)" />
+    <circle cx="1010" cy="300" r="180" fill="#6e40c9" opacity="0.10" filter="url(#glow)" />
+    <circle cx="1030" cy="1780" r="160" fill="#3fb950" opacity="0.08" filter="url(#glow)" />
 
-  <rect x="60" y="40" rx="28" ry="28" width="1080" height="2120" class="card"/>
+    <rect x="60" y="40" rx="28" ry="28" width="1080" height="2120" class="card" />
 
-  <text x="600" y="118" text-anchor="middle" class="mono cyan" font-size="16" opacity="0.95">╔══════════════════════════════════════╗</text>
-  <text x="600" y="148" text-anchor="middle" class="mono cyan" font-size="16" opacity="0.95">║  H.M. TAJUL ISLAM TANIM  ⚛         ║</text>
-  <text x="600" y="178" text-anchor="middle" class="mono cyan" font-size="16" opacity="0.95">╚══════════════════════════════════════╝</text>
 
-  <text x="600" y="250" text-anchor="middle" class="sans title text" fill="url(#accent)">Physics × Engineering × Systems</text>
-  <text x="600" y="284" text-anchor="middle" class="mono muted" font-size="16" letter-spacing="2">Scientific Computing · Distributed Systems · Real-Time Infra</text>
+    <!-- <text x="120" y="448" class="mono section">whoami</text> -->
 
-  <g transform="translate(200 320)">
-    <rect x="0" y="0" rx="22" ry="22" width="180" height="44" fill="#0d1117" stroke="#21262d"/>
-    <text x="90" y="28" text-anchor="middle" class="mono small text">Bangladesh</text>
-  </g>
-  <g transform="translate(510 320)">
-    <rect x="0" y="0" rx="22" ry="22" width="180" height="44" fill="#141126" stroke="#6e40c9" opacity="0.95"/>
-    <text x="90" y="28" text-anchor="middle" class="mono small purple">Physics Undergrad</text>
-  </g>
-  <g transform="translate(820 320)">
-    <rect x="0" y="0" rx="22" ry="22" width="220" height="44" fill="#102014" stroke="#3fb950" opacity="0.95"/>
-    <text x="110" y="28" text-anchor="middle" class="mono small green">Open to Collaborate</text>
-  </g>
+    <rect width="900" height="44" fill="#0d1117" />
+    <rect x="120" y="421" width="3" height="44" rx="1" fill="#00d9ff" />
+    <rect x="130" y="430" width="97" height="28" rx="5" fill="rgba(0,217,255,0.08)"
+        stroke="rgba(0,217,255,0.25)" stroke-width="1" />
+    <text x="172" y="448" font-family="'JetBrains Mono','Courier New',monospace" font-size="13"
+        font-weight="700" fill="#00d9ff" text-anchor="middle" letter-spacing="1">> whoami</text>
+    <line x1="119" y1="22" x2="892" y2="22" stroke="#21262d" stroke-width="1" />
+    <circle cx="892" cy="22" r="3" fill="#21262d" />
 
-  <line x1="120" y1="408" x2="1080" y2="408" stroke="#21262d" stroke-width="1.5"/>
-  <text x="120" y="448" class="mono section">whoami</text>
+    <g transform="translate(120 470)">
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="330" class="card2" />
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="46" fill="#0d1117" stroke="#21262d" />
+        <circle cx="24" cy="23" r="6" fill="#ff5f57" />
+        <circle cx="46" cy="23" r="6" fill="#febc2e" />
+        <circle cx="68" cy="23" r="6" fill="#28c840" />
+        <text x="930" y="30" text-anchor="end" class="mono muted tiny">profile.yml</text>
 
-  <g transform="translate(120 470)">
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="330" class="card2"/>
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="46" fill="#0d1117" stroke="#21262d"/>
-    <circle cx="24" cy="23" r="6" fill="#ff5f57"/>
-    <circle cx="46" cy="23" r="6" fill="#febc2e"/>
-    <circle cx="68" cy="23" r="6" fill="#28c840"/>
-    <text x="930" y="30" text-anchor="end" class="mono muted tiny">profile.yml</text>
-
-    <text x="28" y="84" class="mono label">name</text><text x="130" y="84" class="mono value">: H.M. Tajul Islam Tanim</text>
-    <text x="28" y="116" class="mono label">alias</text><text x="130" y="116" class="mono value">: tajultonim</text>
-    <text x="28" y="148" class="mono label">role</text><text x="130" y="148" class="mono value">: Physics Undergrad → Systems Engineer</text>
-    <text x="28" y="180" class="mono label">location</text><text x="130" y="180" class="mono value">: Dhaka, Bangladesh 🇧🇩</text>
-    <text x="28" y="212" class="mono label">focus</text><text x="130" y="212" class="mono value">:</text>
-    <text x="60" y="246" class="mono cyan small">- Scientific Computing</text>
-    <text x="60" y="274" class="mono cyan small">- Distributed Systems</text>
-    <text x="360" y="246" class="mono purple small">- Real-Time Engineering</text>
-    <text x="360" y="274" class="mono green small">- High Performance Computing</text>
-    <text x="28" y="310" class="mono label">status</text><text x="130" y="310" class="mono value">: Building systems that move data fast</text>
-  </g>
-
-  <line x1="120" y1="840" x2="1080" y2="840" stroke="#21262d" stroke-width="1.5"/>
-  <text x="120" y="880" class="mono section">tech stack</text>
-
-  <g transform="translate(120 900)">
-    <rect x="0" y="0" rx="18" ry="18" width="465" height="170" class="card2"/>
-    <text x="22" y="32" class="mono muted tiny" letter-spacing="1.5">LANGUAGES</text>
-    <g transform="translate(22 52)">
-      <rect rx="8" ry="8" width="110" height="30" fill="#1b1f2a" stroke="#f7df1e" opacity="0.8"/>
-      <text x="55" y="20" text-anchor="middle" class="mono chip" fill="#f7df1e">JavaScript</text>
+        <text x="28" y="84" class="mono label">name</text>
+        <text x="130" y="84" class="mono value">: H.M. Tajul Islam Tanim</text>
+        <text x="28" y="116" class="mono label">alias</text>
+        <text x="130" y="116" class="mono value">: tajultonim</text>
+        <text x="28" y="148" class="mono label">role</text>
+        <text x="130" y="148" class="mono value">: Physics Undergrad → Systems Engineer</text>
+        <text x="28" y="180" class="mono label">location</text>
+        <text x="130" y="180" class="mono value">: Dhaka, Bangladesh 🇧🇩</text>
+        <text x="28" y="212" class="mono label">focus</text>
+        <text x="130" y="212" class="mono value">:</text>
+        <text x="60" y="246" class="mono cyan small">- Scientific Computing</text>
+        <text x="60" y="274" class="mono cyan small">- Distributed Systems</text>
+        <text x="360" y="246" class="mono purple small">- Real-Time Engineering</text>
+        <text x="360" y="274" class="mono green small">- High Performance Computing</text>
+        <text x="28" y="310" class="mono label">status</text>
+        <text x="130" y="310" class="mono value">: Building systems that move data fast</text>
     </g>
-    <g transform="translate(140 52)">
-      <rect rx="8" ry="8" width="104" height="30" fill="#172233" stroke="#60a5fa" opacity="0.8"/>
-      <text x="52" y="20" text-anchor="middle" class="mono chip" fill="#60a5fa">TypeScript</text>
-    </g>
-    <g transform="translate(252 52)">
-      <rect rx="8" ry="8" width="88" height="30" fill="#152433" stroke="#57b6e6" opacity="0.8"/>
-      <text x="44" y="20" text-anchor="middle" class="mono chip" fill="#57b6e6">Python</text>
-    </g>
-    <g transform="translate(348 52)">
-      <rect rx="8" ry="8" width="82" height="30" fill="#121d33" stroke="#7aa2f7" opacity="0.8"/>
-      <text x="41" y="20" text-anchor="middle" class="mono chip" fill="#7aa2f7">C++</text>
-    </g>
-    <g transform="translate(22 92)">
-      <rect rx="8" ry="8" width="78" height="30" fill="#251f34" stroke="#c084fc" opacity="0.8"/>
-      <text x="39" y="20" text-anchor="middle" class="mono chip" fill="#c084fc">Julia</text>
-    </g>
-  </g>
 
-  <g transform="translate(615 900)">
-    <rect x="0" y="0" rx="18" ry="18" width="465" height="170" class="card2"/>
-    <text x="22" y="32" class="mono muted tiny" letter-spacing="1.5">FRAMEWORKS</text>
-    <g transform="translate(22 52)">
-      <rect rx="8" ry="8" width="84" height="30" fill="#102014" stroke="#3fb950" opacity="0.8"/>
-      <text x="42" y="20" text-anchor="middle" class="mono chip" fill="#3fb950">Node.js</text>
-    </g>
-    <g transform="translate(114 52)">
-      <rect rx="8" ry="8" width="92" height="30" fill="#1a1a1a" stroke="#cdd9e5" opacity="0.8"/>
-      <text x="46" y="20" text-anchor="middle" class="mono chip" fill="#cdd9e5">Socket.IO</text>
-    </g>
-    <g transform="translate(214 52)">
-      <rect rx="8" ry="8" width="84" height="30" fill="#171f30" stroke="#e2e8f0" opacity="0.8"/>
-      <text x="42" y="20" text-anchor="middle" class="mono chip" fill="#e2e8f0">Next.js</text>
-    </g>
-    <g transform="translate(306 52)">
-      <rect rx="8" ry="8" width="72" height="30" fill="#251f34" stroke="#c084fc" opacity="0.8"/>
-      <text x="36" y="20" text-anchor="middle" class="mono chip" fill="#c084fc">Svelte</text>
-    </g>
-    <g transform="translate(386 52)">
-      <rect rx="8" ry="8" width="58" height="30" fill="#172233" stroke="#60a5fa" opacity="0.8"/>
-      <text x="29" y="20" text-anchor="middle" class="mono chip" fill="#60a5fa">Tailwind</text>
-    </g>
-    <text x="22" y="116" class="mono muted tiny" letter-spacing="1.5">TOOLS & INFRA</text>
-    <text x="22" y="146" class="mono text small">Linux · Git · Azure · VSCode · Jupyter</text>
-  </g>
+    <line x1="120" y1="840" x2="1080" y2="840" stroke="#21262d" stroke-width="1.5" />
+    <text x="120" y="880" class="mono section">tech stack</text>
 
-  <line x1="120" y1="1136" x2="1080" y2="1136" stroke="#21262d" stroke-width="1.5"/>
-  <text x="120" y="1176" class="mono section">featured project</text>
-
-  <g transform="translate(120 1196)">
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="310" class="card2"/>
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="64" fill="#0d1117" stroke="#21262d"/>
-    <text x="24" y="40" class="sans text" font-size="28" font-weight="700" fill="#00d9ff">SneakyChat</text>
-    <text x="24" y="56" class="mono muted tiny">Real-time anonymous chat with moderation & reporting infrastructure</text>
-    <rect x="870" y="18" rx="18" ry="18" width="70" height="28" fill="#0d1117" stroke="#00d9ff"/>
-    <text x="905" y="37" text-anchor="middle" class="mono cyan tiny" font-weight="700">LIVE</text>
-
-    <rect x="24" y="92" rx="14" ry="14" width="912" height="130" fill="#0d1117" stroke="#21262d"/>
-    <text x="44" y="128" class="mono cyan small">Client</text>
-    <text x="124" y="128" class="mono text small">──WebSocket──►</text>
-    <text x="292" y="128" class="mono purple small">Node.js Server</text>
-    <text x="454" y="128" class="mono text small">──►</text>
-    <text x="494" y="128" class="mono green small">SQL Database</text>
-    <text x="44" y="160" class="mono text small">│                        │</text>
-    <text x="44" y="188" class="mono text small">└──── </text>
-    <text x="116" y="188" class="mono cyan small">Socket.IO</text>
-    <text x="214" y="188" class="mono text small">─────┘</text>
-    <text x="364" y="222" class="mono green small">Azure Cloud Host</text>
-
-    <g transform="translate(24 238)">
-      <rect rx="8" ry="8" width="96" height="30" fill="#102014" stroke="#3fb950" opacity="0.9"/>
-      <text x="48" y="20" text-anchor="middle" class="mono chip" fill="#3fb950">Node.js</text>
+    <g transform="translate(120 900)">
+        <rect x="0" y="0" rx="18" ry="18" width="465" height="170" class="card2" />
+        <text x="22" y="32" class="mono muted tiny" letter-spacing="1.5">LANGUAGES</text>
+        <g transform="translate(22 52)">
+            <rect rx="8" ry="8" width="110" height="30" fill="#1b1f2a" stroke="#f7df1e"
+                opacity="0.8" />
+            <text x="55" y="20" text-anchor="middle" class="mono chip" fill="#f7df1e">JavaScript</text>
+        </g>
+        <g transform="translate(140 52)">
+            <rect rx="8" ry="8" width="104" height="30" fill="#172233" stroke="#60a5fa"
+                opacity="0.8" />
+            <text x="52" y="20" text-anchor="middle" class="mono chip" fill="#60a5fa">TypeScript</text>
+        </g>
+        <g transform="translate(252 52)">
+            <rect rx="8" ry="8" width="88" height="30" fill="#152433" stroke="#57b6e6" opacity="0.8" />
+            <text x="44" y="20" text-anchor="middle" class="mono chip" fill="#57b6e6">Python</text>
+        </g>
+        <g transform="translate(348 52)">
+            <rect rx="8" ry="8" width="82" height="30" fill="#121d33" stroke="#7aa2f7" opacity="0.8" />
+            <text x="41" y="20" text-anchor="middle" class="mono chip" fill="#7aa2f7">C++</text>
+        </g>
+        <g transform="translate(22 92)">
+            <rect rx="8" ry="8" width="78" height="30" fill="#251f34" stroke="#c084fc" opacity="0.8" />
+            <text x="39" y="20" text-anchor="middle" class="mono chip" fill="#c084fc">Julia</text>
+        </g>
     </g>
-    <g transform="translate(128 238)">
-      <rect rx="8" ry="8" width="100" height="30" fill="#1a1a1a" stroke="#cdd9e5" opacity="0.9"/>
-      <text x="50" y="20" text-anchor="middle" class="mono chip" fill="#cdd9e5">Socket.IO</text>
-    </g>
-    <g transform="translate(236 238)">
-      <rect rx="8" ry="8" width="104" height="30" fill="#172233" stroke="#60a5fa" opacity="0.9"/>
-      <text x="52" y="20" text-anchor="middle" class="mono chip" fill="#60a5fa">TypeScript</text>
-    </g>
-    <g transform="translate(348 238)">
-      <rect rx="8" ry="8" width="72" height="30" fill="#121d33" stroke="#7aa2f7" opacity="0.9"/>
-      <text x="36" y="20" text-anchor="middle" class="mono chip" fill="#7aa2f7">Azure</text>
-    </g>
-    <g transform="translate(428 238)">
-      <rect rx="8" ry="8" width="64" height="30" fill="#2a1613" stroke="#f78166" opacity="0.9"/>
-      <text x="32" y="20" text-anchor="middle" class="mono chip" fill="#f78166">SQL</text>
-    </g>
-  </g>
 
-  <line x1="120" y1="1542" x2="1080" y2="1542" stroke="#21262d" stroke-width="1.5"/>
-  <text x="120" y="1582" class="mono section">currently building</text>
-
-  <g transform="translate(120 1602)">
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="250" class="card2"/>
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="46" fill="#0d1117" stroke="#21262d"/>
-    <circle cx="24" cy="23" r="6" fill="#ff5f57"/>
-    <circle cx="46" cy="23" r="6" fill="#febc2e"/>
-    <circle cx="68" cy="23" r="6" fill="#28c840"/>
-    <text x="930" y="30" text-anchor="end" class="mono muted tiny">htop</text>
-
-    <g transform="translate(24 74)">
-      <text x="0" y="16" class="mono text tiny">[1] Real-time chat infrastructure</text>
-      <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d"/>
-      <rect x="300" y="4" width="476" height="12" rx="6" fill="url(#accent)"/>
-      <text x="880" y="16" class="mono muted tiny">85%</text>
+    <g transform="translate(615 900)">
+        <rect x="0" y="0" rx="18" ry="18" width="465" height="170" class="card2" />
+        <text x="22" y="32" class="mono muted tiny" letter-spacing="1.5">FRAMEWORKS</text>
+        <g transform="translate(22 52)">
+            <rect rx="8" ry="8" width="84" height="30" fill="#102014" stroke="#3fb950" opacity="0.8" />
+            <text x="42" y="20" text-anchor="middle" class="mono chip" fill="#3fb950">Node.js</text>
+        </g>
+        <g transform="translate(114 52)">
+            <rect rx="8" ry="8" width="92" height="30" fill="#1a1a1a" stroke="#cdd9e5" opacity="0.8" />
+            <text x="46" y="20" text-anchor="middle" class="mono chip" fill="#cdd9e5">Socket.IO</text>
+        </g>
+        <g transform="translate(214 52)">
+            <rect rx="8" ry="8" width="84" height="30" fill="#171f30" stroke="#e2e8f0" opacity="0.8" />
+            <text x="42" y="20" text-anchor="middle" class="mono chip" fill="#e2e8f0">Next.js</text>
+        </g>
+        <g transform="translate(306 52)">
+            <rect rx="8" ry="8" width="72" height="30" fill="#251f34" stroke="#c084fc" opacity="0.8" />
+            <text x="36" y="20" text-anchor="middle" class="mono chip" fill="#c084fc">Svelte</text>
+        </g>
+        <g transform="translate(386 52)">
+            <rect rx="8" ry="8" width="58" height="30" fill="#172233" stroke="#60a5fa" opacity="0.8" />
+            <text x="29" y="20" text-anchor="middle" class="mono chip" fill="#60a5fa">Tailwind</text>
+        </g>
+        <text x="22" y="116" class="mono muted tiny" letter-spacing="1.5">TOOLS &amp; INFRA</text>
+        <text x="22" y="146" class="mono text small">Linux · Git · Azure · VSCode · Jupyter</text>
     </g>
-    <g transform="translate(24 114)">
-      <text x="0" y="16" class="mono text tiny">[2] WebRTC P2P image transfer</text>
-      <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d"/>
-      <rect x="300" y="4" width="336" height="12" rx="6" fill="url(#accentV)"/>
-      <text x="880" y="16" class="mono muted tiny">60%</text>
-    </g>
-    <g transform="translate(24 154)">
-      <text x="0" y="16" class="mono text tiny">[3] Distributed Node.js experiments</text>
-      <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d"/>
-      <rect x="300" y="4" width="224" height="12" rx="6" fill="url(#accent)"/>
-      <text x="880" y="16" class="mono muted tiny">40%</text>
-    </g>
-    <g transform="translate(24 194)">
-      <text x="0" y="16" class="mono text tiny">[4] Scalable backend architecture</text>
-      <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d"/>
-      <rect x="300" y="4" width="392" height="12" rx="6" fill="url(#accent)"/>
-      <text x="880" y="16" class="mono muted tiny">70%</text>
-    </g>
-  </g>
 
-  <line x1="120" y1="1882" x2="1080" y2="1882" stroke="#21262d" stroke-width="1.5"/>
-  <text x="120" y="1922" class="mono section">long-term goals</text>
+    <line x1="120" y1="1136" x2="1080" y2="1136" stroke="#21262d" stroke-width="1.5" />
+    <text x="120" y="1176" class="mono section">featured project</text>
 
-  <g transform="translate(120 1940)">
-    <rect x="0" y="0" rx="18" ry="18" width="960" height="170" class="card2"/>
-    <text x="26" y="40" class="mono text small">▸ Graduate research in scientific computing</text>
-    <text x="26" y="72" class="mono text small">▸ Work on high-performance, low-latency systems</text>
-    <text x="26" y="104" class="mono text small">▸ Build large-scale distributed infrastructure</text>
-    <text x="26" y="136" class="mono text small">▸ Apply computation to real scientific problems</text>
-    <text x="26" y="168" class="mono text small">▸ Bridge physics and computing at research scale</text>
-  </g>
+    <g transform="translate(120 1196)">
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="310" class="card2" />
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="64" fill="#0d1117" stroke="#21262d" />
+        <text x="24" y="40" class="sans text" font-size="28" font-weight="700" fill="#00d9ff">
+            SneakyChat</text>
+        <text x="24" y="56" class="mono muted tiny">Real-time anonymous chat with moderation &amp;
+            reporting infrastructure</text>
+        <rect x="870" y="18" rx="18" ry="18" width="70" height="28" fill="#0d1117" stroke="#00d9ff" />
+        <text x="905" y="37" text-anchor="middle" class="mono cyan tiny" font-weight="700">LIVE</text>
 
-  <line x1="120" y1="2148" x2="1080" y2="2148" stroke="#21262d" stroke-width="1.5"/>
-  <text x="600" y="2184" text-anchor="middle" class="mono muted small">GitHub · Instagram · Facebook · Bangladesh · Physics × Engineering</text>
+        <rect x="24" y="92" rx="14" ry="14" width="912" height="130" fill="#0d1117" stroke="#21262d" />
+        <text x="44" y="128" class="mono cyan small">Client</text>
+        <text x="124" y="128" class="mono text small">──WebSocket──►</text>
+        <text x="292" y="128" class="mono purple small">Node.js Server</text>
+        <text x="454" y="128" class="mono text small">──►</text>
+        <text x="494" y="128" class="mono green small">SQL Database</text>
+        <text x="44" y="160" class="mono text small">│ │</text>
+        <text x="44" y="188" class="mono text small">└──── </text>
+        <text x="116" y="188" class="mono cyan small">Socket.IO</text>
+        <text x="214" y="188" class="mono text small">─────┘</text>
+        <text x="364" y="222" class="mono green small">Azure Cloud Host</text>
+
+        <g transform="translate(24 238)">
+            <rect rx="8" ry="8" width="96" height="30" fill="#102014" stroke="#3fb950" opacity="0.9" />
+            <text x="48" y="20" text-anchor="middle" class="mono chip" fill="#3fb950">Node.js</text>
+        </g>
+        <g transform="translate(128 238)">
+            <rect rx="8" ry="8" width="100" height="30" fill="#1a1a1a" stroke="#cdd9e5"
+                opacity="0.9" />
+            <text x="50" y="20" text-anchor="middle" class="mono chip" fill="#cdd9e5">Socket.IO</text>
+        </g>
+        <g transform="translate(236 238)">
+            <rect rx="8" ry="8" width="104" height="30" fill="#172233" stroke="#60a5fa"
+                opacity="0.9" />
+            <text x="52" y="20" text-anchor="middle" class="mono chip" fill="#60a5fa">TypeScript</text>
+        </g>
+        <g transform="translate(348 238)">
+            <rect rx="8" ry="8" width="72" height="30" fill="#121d33" stroke="#7aa2f7" opacity="0.9" />
+            <text x="36" y="20" text-anchor="middle" class="mono chip" fill="#7aa2f7">Azure</text>
+        </g>
+        <g transform="translate(428 238)">
+            <rect rx="8" ry="8" width="64" height="30" fill="#2a1613" stroke="#f78166" opacity="0.9" />
+            <text x="32" y="20" text-anchor="middle" class="mono chip" fill="#f78166">SQL</text>
+        </g>
+    </g>
+
+    <line x1="120" y1="1542" x2="1080" y2="1542" stroke="#21262d" stroke-width="1.5" />
+    <text x="120" y="1582" class="mono section">currently building</text>
+
+    <g transform="translate(120 1602)">
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="250" class="card2" />
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="46" fill="#0d1117" stroke="#21262d" />
+        <circle cx="24" cy="23" r="6" fill="#ff5f57" />
+        <circle cx="46" cy="23" r="6" fill="#febc2e" />
+        <circle cx="68" cy="23" r="6" fill="#28c840" />
+        <text x="930" y="30" text-anchor="end" class="mono muted tiny">htop</text>
+
+        <g transform="translate(24 74)">
+            <text x="0" y="16" class="mono text tiny">[1] Real-time chat infrastructure</text>
+            <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d" />
+            <rect x="300" y="4" width="476" height="12" rx="6" fill="url(#accent)" />
+            <text x="880" y="16" class="mono muted tiny">85%</text>
+        </g>
+        <g transform="translate(24 114)">
+            <text x="0" y="16" class="mono text tiny">[2] WebRTC P2P image transfer</text>
+            <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d" />
+            <rect x="300" y="4" width="336" height="12" rx="6" fill="url(#accentV)" />
+            <text x="880" y="16" class="mono muted tiny">60%</text>
+        </g>
+        <g transform="translate(24 154)">
+            <text x="0" y="16" class="mono text tiny">[3] Distributed Node.js experiments</text>
+            <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d" />
+            <rect x="300" y="4" width="224" height="12" rx="6" fill="url(#accent)" />
+            <text x="880" y="16" class="mono muted tiny">40%</text>
+        </g>
+        <g transform="translate(24 194)">
+            <text x="0" y="16" class="mono text tiny">[4] Scalable backend architecture</text>
+            <rect x="300" y="4" width="560" height="12" rx="6" fill="#21262d" />
+            <rect x="300" y="4" width="392" height="12" rx="6" fill="url(#accent)" />
+            <text x="880" y="16" class="mono muted tiny">70%</text>
+        </g>
+    </g>
+
+    <line x1="120" y1="1882" x2="1080" y2="1882" stroke="#21262d" stroke-width="1.5" />
+    <text x="120" y="1922" class="mono section">long-term goals</text>
+
+    <g transform="translate(120 1940)">
+        <rect x="0" y="0" rx="18" ry="18" width="960" height="170" class="card2" />
+        <text x="26" y="40" class="mono text small">▸ Graduate research in scientific computing</text>
+        <text x="26" y="72" class="mono text small">▸ Work on high-performance, low-latency systems</text>
+        <text x="26" y="104" class="mono text small">▸ Build large-scale distributed infrastructure</text>
+        <text x="26" y="136" class="mono text small">▸ Apply computation to real scientific problems</text>
+        <text x="26" y="168" class="mono text small">▸ Bridge physics and computing at research
+            scale</text>
+    </g>
+
+    <line x1="120" y1="2148" x2="1080" y2="2148" stroke="#21262d" stroke-width="1.5" />
+    <text x="600" y="2184" text-anchor="middle" class="mono muted small">GitHub · Instagram ·
+        Facebook · Bangladesh · Physics × Engineering</text>
 </svg>

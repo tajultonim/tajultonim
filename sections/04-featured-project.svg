@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Featured Project Section</title>
+  <desc id="desc">Featured project with architecture sketch and stack tags.</desc>
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+      .sans { font-family: 'Syne', 'Segoe UI', Arial, sans-serif; }
+      .muted { fill: #8b949e; }
+      .text { fill: #e6edf3; }
+      .cyan { fill: #00d9ff; }
+      .purple { fill: #a78bfa; }
+      .green { fill: #3fb950; }
+      .chip { font-size: 14px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" fill="#0d1117"/>
+  <text x="40" y="38" class="mono cyan" font-size="18" font-weight="700" letter-spacing="2">FEATURED PROJECT</text>
+  <line x1="40" y1="52" x2="1160" y2="52" stroke="#21262d"/>
+
+  <rect x="40" y="72" width="1120" height="330" rx="18" fill="#161b22" stroke="#21262d"/>
+  <rect x="40" y="72" width="1120" height="64" rx="18" fill="#0d1117" stroke="#21262d"/>
+  <text x="64" y="112" class="sans cyan" font-size="30" font-weight="700">SneakyChat</text>
+  <text x="64" y="128" class="mono muted" font-size="12">Real-time anonymous chat with moderation &amp; reporting infrastructure</text>
+  <rect x="1060" y="90" width="70" height="28" rx="14" fill="#0d1117" stroke="#00d9ff"/>
+  <text x="1095" y="109" class="mono cyan" font-size="12" text-anchor="middle" font-weight="700">LIVE</text>
+
+  <rect x="64" y="156" width="1072" height="132" rx="14" fill="#0d1117" stroke="#21262d"/>
+  <text x="88" y="194" class="mono cyan" font-size="14">Client</text>
+  <text x="164" y="194" class="mono text" font-size="14">──WebSocket──►</text>
+  <text x="334" y="194" class="mono purple" font-size="14">Node.js Server</text>
+  <text x="500" y="194" class="mono text" font-size="14">──►</text>
+  <text x="540" y="194" class="mono green" font-size="14">SQL Database</text>
+  <text x="88" y="226" class="mono text" font-size="14">└──── Socket.IO ─────┘</text>
+  <text x="350" y="254" class="mono green" font-size="14">Azure Cloud Host</text>
+
+  <text x="64" y="328" class="mono chip" fill="#3fb950">Node.js</text>
+  <text x="184" y="328" class="mono chip" fill="#cdd9e5">Socket.IO</text>
+  <text x="330" y="328" class="mono chip" fill="#60a5fa">TypeScript</text>
+  <text x="490" y="328" class="mono chip" fill="#7aa2f7">Azure</text>
+  <text x="590" y="328" class="mono chip" fill="#f78166">SQL</text>
+</svg>

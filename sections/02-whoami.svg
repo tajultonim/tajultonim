@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img"
+    aria-labelledby="title desc">
+    <title id="title">Whoami Section</title>
+    <desc id="desc">Terminal style summary profile information.</desc>
+    <defs>
+        <style>
+            .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+            .label { fill: #ff7b72; font-size: 18px; font-weight: 700; }
+            .value { fill: #a5d6ff; font-size: 18px; }
+            .muted { fill: #8b949e; }
+            .cyan { fill: #00d9ff; }
+            .purple { fill: #a78bfa; }
+            .green { fill: #3fb950; }
+        </style>
+    </defs>
+
+    <rect width="1200" height="430" fill="#0d1117" />
+    <text x="40" y="38" class="mono cyan" font-size="18" font-weight="700" letter-spacing="2">WHOAMI</text>
+    <line x1="40" y1="52" x2="1160" y2="52" stroke="#21262d" />
+
+    <rect x="40" y="72" width="1120" height="330" rx="18" fill="#161b22" stroke="#21262d" />
+    <rect x="40" y="72" width="1120" height="46" rx="18" fill="#0d1117" stroke="#21262d" />
+    <circle cx="64" cy="95" r="6" fill="#ff5f57" />
+    <circle cx="86" cy="95" r="6" fill="#febc2e" />
+    <circle cx="108" cy="95" r="6" fill="#28c840" />
+    <text x="1130" y="102" class="mono muted" font-size="12" text-anchor="end">profile.yml</text>
+
+    <text x="64" y="154" class="mono label">name</text>
+    <text x="190" y="154" class="mono value">: H.M. Tajul Islam Tanim</text>
+    <text x="64" y="186" class="mono label">alias</text>
+    <text x="190" y="186" class="mono value">: tajultonim</text>
+    <text x="64" y="218" class="mono label">role</text>
+    <text x="190" y="218" class="mono value">: Physics Undergrad → Systems Engineer</text>
+    <text x="64" y="250" class="mono label">location</text>
+    <text x="190" y="250" class="mono value">: Dhaka, Bangladesh 🇧🇩</text>
+    <text x="64" y="282" class="mono label">focus</text>
+    <text x="190" y="282" class="mono value">:</text>
+    <text x="120" y="312" class="mono cyan" font-size="14">- Scientific Computing</text>
+    <text x="120" y="338" class="mono cyan" font-size="14">- Distributed Systems</text>
+    <text x="420" y="312" class="mono purple" font-size="14">- Real-Time Engineering</text>
+    <text x="420" y="338" class="mono green" font-size="14">- High Performance Computing</text>
+    <text x="64" y="372" class="mono label">status</text>
+    <text x="190" y="372" class="mono value">: Building systems that move data fast</text>
+</svg>
