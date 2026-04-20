@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **H.M. Tajul Islam Tanim**  
-Physics graduate exploring **scientific computing, software engineering, web development, and systems**.
+Physics undergraduate exploring **scientific computing, software engineering, web development, and systems**.
 
 ---
 
