@@ -35,7 +35,7 @@ Currently exploring:
 ## 📊 Github Stats
 
 <div align="center">
- <img src="https://fancy-github-stat.vercel.app/stats?username=tajultonim"/>
+ <img src="https://fancy-github-stats.vercel.app/?username=tajultonim"/>
 </div>
 
 ---
