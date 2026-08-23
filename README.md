@@ -127,12 +127,12 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Web & Application Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,tailwind,nodejs,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,tailwind" />
 </p>
 
 **Databases & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,nodejs,expressjs,prisma" />
 </p>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
