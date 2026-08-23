@@ -1,7 +1,3 @@
-<div align="center">
- <img src="https://fancy-github-stat.vercel.app/stats?username=tajultonim"/>
-</div>
-
 
 <div align="center">
 
@@ -33,6 +29,14 @@ Currently exploring:
 - 🐳 Self-hosted infrastructure & DevOps
 - 🤖 Machine learning
 - 📐 Mathematical modeling and computational physics
+
+---
+
+## 📊 Github Stats
+
+<div align="center">
+ <img src="https://fancy-github-stat.vercel.app/stats?username=tajultonim"/>
+</div>
 
 ---
 
@@ -168,14 +172,14 @@ Scientific Computing
    ├── Parallel Computing
    ├── MPI / Distributed Systems
    └── Computational Physics
-            │
-            ▼
+
+
 Systems Programming
    ├── Rust
    ├── Linux
    └── Performance Engineering
-            │
-            ▼
+
+
 Production Software
    ├── Next.js
    ├── PostgreSQL
