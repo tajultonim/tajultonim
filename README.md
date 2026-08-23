@@ -122,17 +122,17 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,rust,fortran,julia,ts,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,rust,fortran,julia,ts,js" />
 </p>
 
 **Web & Application Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,tailwind,nodejs,expressjs" />
 </p>
 
 **Databases & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
 </p>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -143,7 +143,7 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,azure,nginx,caddy" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,azure,nginx,firebase,supabase" />
 </p>
 
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
