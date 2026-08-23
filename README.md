@@ -18,7 +18,7 @@
 
 I'm a **Physics undergraduate at the University of Rajshahi, Bangladesh**, working at the intersection of **physics, mathematics, and computing**.
 
-Rather than learning technologies only through tutorials, I prefer building things from the ground up — from numerical solvers and multi-node computing clusters to production web applications and self-hosted infrastructure.
+Rather than learning technologies only through tutorials, I prefer building things from the ground up - from numerical solvers and multi-node computing clusters to production web applications and self-hosted infrastructure.
 
 Currently exploring:
 
@@ -45,7 +45,7 @@ Currently exploring:
 My physics background naturally pulled me toward computational methods.
 
 **🔬 Scientific Computing**
-Numerical methods for mathematical and physical problems — with a particular interest in ODE systems, numerical integration, optimization, and computational modeling.
+Numerical methods for mathematical and physical problems - with a particular interest in ODE systems, numerical integration, optimization, and computational modeling.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -87,12 +87,12 @@ A production-oriented, self-hosted management platform for diagnostic centers.
 - Audit logging & role-based administration
 - Printable invoices and reports
 
-Also involved database migrations, deployment, reverse proxies, Windows packaging, backups, and self-hosted infrastructure — making it as much a systems project as a web application.
+Also involved database migrations, deployment, reverse proxies, Windows packaging, backups, and self-hosted infrastructure - making it as much a systems project as a web application.
 
 🔗 [Live Demo](https://tidc.tvm.qd.je/)
 
 ### 🦊 SneakyChat
-An anonymous peer-to-peer chat experience built around a playful token economy — match with a random fox, chat for a while, earn berries, and come back for more.
+An anonymous peer-to-peer chat experience built around a playful token economy - match with a random fox, chat for a while, earn berries, and come back for more.
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -102,20 +102,20 @@ An anonymous peer-to-peer chat experience built around a playful token economy �
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-- **Instant Matching** — find and connect with a random anonymous fox
-- **Berry Economy** — earn berries by chatting, lose them when skipping
-- **Timed Chats** — 2-minute initial sessions with 5-minute extensions
-- **Real-time Messaging** — instant messages, typing indicators, and reactions
-- **Persistent Sessions** — rejoin a conversation after an accidental disconnect
-- **Responsive UI** — designed for mobile, tablet, and desktop
-- **Anonymous by Design** — no accounts, no unnecessary tracking
+- **Instant Matching** - find and connect with a random anonymous fox
+- **Berry Economy** - earn berries by chatting, lose them when skipping
+- **Timed Chats** - 2-minute initial sessions with 5-minute extensions
+- **Real-time Messaging** - instant messages, typing indicators, and reactions
+- **Persistent Sessions** - rejoin a conversation after an accidental disconnect
+- **Responsive UI** - designed for mobile, tablet, and desktop
+- **Anonymous by Design** - no accounts, no unnecessary tracking
 
 *Focus: real-time systems · WebSockets · anonymous matching · state management*
 
 🔗 [Live Demo](https://sneakychat.pages.dev/)
 
 ### 🖥️ Experimental HPC Cluster
-A small personal cluster built to experiment with parallel scientific workloads — understanding not just how to write numerical programs, but how computation behaves when workloads are distributed across CPUs and machines.
+A small personal cluster built to experiment with parallel scientific workloads - understanding not just how to write numerical programs, but how computation behaves when workloads are distributed across CPUs and machines.
 
 ![MPI](https://img.shields.io/badge/MPI-000000?style=flat-square)
 ![Slurm](https://img.shields.io/badge/Slurm-00A0DF?style=flat-square)
@@ -131,7 +131,7 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,dart,rust,fortran,julia,ts,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,fortran,julia,ts,js" />
 </p>
 
 **Web & Application Development**
@@ -187,7 +187,7 @@ Production Software
    └── Self-hosted Infrastructure
 ```
 
-I'm especially drawn to the overlap of these areas — using low-level, high-performance computing ideas to solve real scientific and engineering problems.
+I'm especially drawn to the overlap of these areas - using low-level, high-performance computing ideas to solve real scientific and engineering problems.
 
 ---
 
@@ -195,7 +195,7 @@ I'm especially drawn to the overlap of these areas — using low-level, high-per
 
 > **Learn the theory. Build the system. Measure the result.**
 
-I like understanding what's happening underneath the abstraction — whether that's a numerical algorithm, a database query, a network request, or a CPU instruction.
+I like understanding what's happening underneath the abstraction - whether that's a numerical algorithm, a database query, a network request, or a CPU instruction.
 
 ---
 
