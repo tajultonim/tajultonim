@@ -1,4 +1,9 @@
 <div align="center">
+ <img src="https://fancy-github-stat.vercel.app/stats?username=tajultonim"/>
+</div>
+
+
+<div align="center">
 
 # H.M. Tajul Islam Tanim
 
@@ -179,17 +184,6 @@ Production Software
 ```
 
 I'm especially drawn to the overlap of these areas — using low-level, high-performance computing ideas to solve real scientific and engineering problems.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tajultonim/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/tajultonim/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tajultonim&theme=dark&hide_border=true" />
-</div>
 
 ---
 
