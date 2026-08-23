@@ -136,7 +136,7 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Web & Application Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,astro,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,svelte,astro,tailwind" />
 </p>
 
 **Databases & Backend**
