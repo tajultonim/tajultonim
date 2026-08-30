@@ -12,9 +12,11 @@
 
 </div>
 
----
 
-## 👋 About Me
+<h2 align="center">
+  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Waving%20hand/Default/animated/waving_hand_animated_default.png" width="30" alt="wave" />
+  About Me
+</h2>
 
 I'm a **Physics undergraduate at the University of Rajshahi, Bangladesh**, working at the intersection of **physics, mathematics, and computing**.
 
@@ -22,29 +24,32 @@ Rather than learning technologies only through tutorials, I prefer building thin
 
 Currently exploring:
 
-- 🔬 Scientific computing & numerical methods
-- ⚡ High-performance and parallel computing
-- 🦀 Systems programming
-- 🌐 Full-stack application architecture
-- 🐳 Self-hosted infrastructure & DevOps
-- 🤖 Machine learning
-- 📐 Mathematical modeling and computational physics
+- <img src="https://em-content.zobj.net/source/telegram/386/telescope_1f52d.webp" width="20" alt="🔭" /> Scientific computing & numerical methods
+- <img src="https://em-content.zobj.net/source/microsoft-teams/400/high-voltage_26a1.png" width="20" alt="⚡" /> High-performance and parallel computing
+- <img src="https://em-content.zobj.net/source/microsoft-teams/400/crab_1f980.png" width="20" alt="🦀" /> Systems programming
+- <img src="https://em-content.zobj.net/source/microsoft/475/globe-with-meridians_1f310.png" width="20" alt="🌐" /> Full-stack application architecture
+- <img src="https://em-content.zobj.net/source/microsoft-teams/400/whale_1f40b.png" width="20" alt="🐋" /> Self-hosted infrastructure & DevOps
+- <img src="https://em-content.zobj.net/source/microsoft-teams/400/robot_1f916.png" width="20" alt="🤖" /> Machine learning
+- <img src="https://em-content.zobj.net/source/microsoft-teams/400/abacus_1f9ee.png" width="20" alt="🧮" /> Mathematical modeling and computational physics
 
----
-
-## 📊 Github Stats
+<h2 align="center">
+  <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30" alt="graph" />
+  Github Stats
+</h2>
 
 <div align="center">
  <img src="https://fancy-github-stats.vercel.app/?username=tajultonim"/>
 </div>
 
----
 
-## ⚛️ Physics × Computing
+<h2 align="center">
+  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Scientist/Light/animated/scientist_animated_light.png" width="30" alt="scientist" />
+  Physics × Computing
+</h2>
 
 My physics background naturally pulled me toward computational methods.
 
-**🔬 Scientific Computing**
+**<img src="https://em-content.zobj.net/source/telegram/386/telescope_1f52d.webp" width="20" alt="🔭" /> Scientific Computing**
 Numerical methods for mathematical and physical problems - with a particular interest in ODE systems, numerical integration, optimization, and computational modeling.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +61,7 @@ Numerical methods for mathematical and physical problems - with a particular int
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 
-**⚡ High-Performance Computing**
+**<img src="https://em-content.zobj.net/source/microsoft-teams/400/high-voltage_26a1.png" width="20" alt="⚡" /> High-Performance Computing**
 Experimenting with building and managing a small multi-node HPC environment, with a long-term goal of scaling computational physics problems across multiple CPU cores and machines.
 
 ![MPI](https://img.shields.io/badge/MPI-000000?style=flat-square)
@@ -66,11 +71,15 @@ Experimenting with building and managing a small multi-node HPC environment, wit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Distributed Computing](https://img.shields.io/badge/Distributed%20Computing-0a7bbb?style=flat-square)
 
----
 
-## 🛠️ Things I've Built
+<h2 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-technologist_1f468-200d-1f4bb.png" width="30" alt="technologist" />
+  Things I've Built
+</h2>
 
-### 🏥 Diagnostic Center Management System
+## <img src="https://em-content.zobj.net/source/microsoft-teams/400/hospital_1f3e5.png" width="26" alt="🏥"/> Diagnostic Center Management System
+
+
 A production-oriented, self-hosted management platform for diagnostic centers.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -91,7 +100,8 @@ Also involved database migrations, deployment, reverse proxies, Windows packagin
 
 🔗 [Live Demo](https://tidc.tvm.qd.je/)
 
-### 🦊 SneakyChat
+## <img src="https://em-content.zobj.net/source/telegram/386/fox_1f98a.webp" width="26" alt="🦊"/> SneakyChat
+
 An anonymous peer-to-peer chat experience built around a playful token economy - match with a random fox, chat for a while, earn berries, and come back for more.
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
@@ -114,7 +124,10 @@ An anonymous peer-to-peer chat experience built around a playful token economy -
 
 🔗 [Live Demo](https://sneakychat.pages.dev/)
 
-### 🖥️ Experimental HPC Cluster
+<h2>
+<img src="https://em-content.zobj.net/source/lg/307/desktop-computer_1f5a5-fe0f.png" width="26" alt="Desktop"/> 
+ Experimental HPC Cluster
+</h2>
 A small personal cluster built to experiment with parallel scientific workloads - understanding not just how to write numerical programs, but how computation behaves when workloads are distributed across CPUs and machines.
 
 ![MPI](https://img.shields.io/badge/MPI-000000?style=flat-square)
@@ -125,9 +138,10 @@ A small personal cluster built to experiment with parallel scientific workloads 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square)
 
----
-
-## 🧰 Tech Stack
+<h2 align="center">
+  <img src="https://em-content.zobj.net/source/telegram/386/toolbox_1f9f0.webp" width="30" alt="🧰" />
+  Tech Stack
+</h2>
 
 **Languages**
 <p>
@@ -162,9 +176,11 @@ A small personal cluster built to experiment with parallel scientific workloads 
 ![Reverse Proxies](https://img.shields.io/badge/Reverse%20Proxies-1F88C0?style=flat-square)
 ![VPS Infrastructure](https://img.shields.io/badge/VPS%20Infrastructure-6f42c1?style=flat-square)
 
----
+<h2 align="center">
+  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Rocket/animated/rocket_animated.png" width="30" alt="🚀" />
+  Currently Exploring
+</h2>
 
-## 🚀 Currently Exploring
 
 ```text
 Scientific Computing
@@ -189,9 +205,12 @@ Production Software
 
 I'm especially drawn to the overlap of these areas - using low-level, high-performance computing ideas to solve real scientific and engineering problems.
 
----
 
-## 🌌 Philosophy
+<h2 align="center">
+  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Milky%20way/animated/milky_way_animated.png" width="30" alt="🌌" />
+ Philosophy
+</h2>
+
 
 > **Learn the theory. Build the system. Measure the result.**
 
