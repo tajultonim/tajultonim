@@ -54,8 +54,8 @@ Numerical methods for mathematical and physical problems - with a particular int
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square)
-![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-squarev&logo=sympy&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
@@ -144,31 +144,30 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,dart,fortran,julia,ts,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,dart,fortran,julia,ts,js,kotlin" />
 </p>
 
 **Web & Application Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,svelte,astro,tailwind,webpack,wasm" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,svelte,astro,vite,tailwind,webpack,wasm" />
 </p>
 
 **Databases & Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,nodejs,expressjs,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,nodejs,expressjs,prisma" />
 </p>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0a7bbb?style=flat-square)
-![Relational DB Design](https://img.shields.io/badge/Relational%20DB%20Design-4169E1?style=flat-square)
-![Audit Systems](https://img.shields.io/badge/Audit%20Systems-6f42c1?style=flat-square)
 
 **Scientific Computing & Mathematics**
 <p>
-  <img src="https://skillicons.dev/icons?i=latex,matlab,mathematica,numpy,scipy,sympy" />
+  <img src="https://skillicons.dev/icons?i=latex,matlab" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="45"/>
 </p>
 
-![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square&logo=sympy&logoColor=white)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square)
 ![MPI](https://img.shields.io/badge/MPI-00599C?style=flat-square)
 ![OpenMP](https://img.shields.io/badge/OpenMP-00599C?style=flat-square)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
@@ -176,32 +175,26 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Systems & CLI**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,vim" />
 </p>
-
-![Nano](https://img.shields.io/badge/Nano-000000?style=flat-square)
 
 **Infrastructure & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,nginx,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,nginx,firebase,supabase,cloudflare,vercel,netlify" />
 </p>
 
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
 ![NSSM](https://img.shields.io/badge/NSSM-0078D6?style=flat-square)
-![Self-hosting](https://img.shields.io/badge/Self--hosting-2496ED?style=flat-square)
-![Reverse Proxies](https://img.shields.io/badge/Reverse%20Proxies-1F88C0?style=flat-square)
-![VPS Infrastructure](https://img.shields.io/badge/VPS%20Infrastructure-6f42c6?style=flat-square)
 
 **Version Control & Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" />
 </p>
 
 **Design & Productivity**
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-  <img src=""/>
+  <img src="https://github.com/tajultonim/tajultonim/blob/main/assets/ms-office.png" width="50"/>
 </p>
 
 <h2 align="center">
