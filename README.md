@@ -3,7 +3,7 @@
 
 # H.M. Tajul Islam Tanim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A7BBB&center=true&vCenter=true&width=600&lines=Physics+%C3%97+Software+Engineering+%C3%97+HPC;Building+scientific+software+%26+full-stack+systems;Self-hosted+infrastructure+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A7BBB&center=true&vCenter=true&width=600&lines=Physics+%C3%97+Software+Engineering+%C3%97+HPC;Building+scientific+software+%26+full-stack+systems;Self-hosted+infrastructure+enthusiast" alt="Physics × Software Engineering × HPC" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-tajultonim-181717?style=flat-square&logo=github)](https://github.com/tajultonim)
 ![Physics](https://img.shields.io/badge/Physics-Undergraduate-6f42c1?style=flat-square&logo=atom&logoColor=white)
@@ -12,9 +12,8 @@
 
 </div>
 
-
 <h2 align="center">
-  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Waving%20hand/Default/animated/waving_hand_animated_default.png" width="30" alt="wave" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/400/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="30" alt="👋🏻" />
   About Me
 </h2>
 
@@ -33,7 +32,7 @@ Currently exploring:
 - <img src="https://em-content.zobj.net/source/microsoft-teams/400/abacus_1f9ee.png" width="20" alt="🧮" /> Mathematical modeling and computational physics
 
 <h2 align="center">
-  <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30" alt="graph" />
+  <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30" alt="📊" />
   Github Stats
 </h2>
 
@@ -43,7 +42,7 @@ Currently exploring:
 
 
 <h2 align="center">
-  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Scientist/Light/animated/scientist_animated_light.png" width="30" alt="scientist" />
+  <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Scientist/Light/animated/scientist_animated_light.png" width="30" alt="👨🏻‍🔬" />
   Physics × Computing
 </h2>
 
@@ -73,7 +72,7 @@ Experimenting with building and managing a small multi-node HPC environment, wit
 
 
 <h2 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-technologist_1f468-200d-1f4bb.png" width="30" alt="technologist" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/400/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="30" alt="👨🏻‍💻" />
   Things I've Built
 </h2>
 
@@ -125,7 +124,7 @@ An anonymous peer-to-peer chat experience built around a playful token economy -
 🔗 [Live Demo](https://sneakychat.pages.dev/)
 
 <h2>
-<img src="https://em-content.zobj.net/source/lg/307/desktop-computer_1f5a5-fe0f.png" width="26" alt="Desktop"/> 
+<img src="https://em-content.zobj.net/source/lg/307/desktop-computer_1f5a5-fe0f.png" width="26" alt="🖥️"/> 
  Experimental HPC Cluster
 </h2>
 A small personal cluster built to experiment with parallel scientific workloads - understanding not just how to write numerical programs, but how computation behaves when workloads are distributed across CPUs and machines.
