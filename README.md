@@ -149,7 +149,7 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Web & Application Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,svelte,astro,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,svelte,astro,tailwind,webpack,wasm" />
 </p>
 
 **Databases & Backend**
@@ -163,9 +163,27 @@ A small personal cluster built to experiment with parallel scientific workloads 
 ![Relational DB Design](https://img.shields.io/badge/Relational%20DB%20Design-4169E1?style=flat-square)
 ![Audit Systems](https://img.shields.io/badge/Audit%20Systems-6f42c1?style=flat-square)
 
-**Infrastructure**
+**Scientific Computing & Mathematics**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,azure,nginx,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=latex,matlab,mathematica,numpy,scipy,sympy" />
+</p>
+
+![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=google&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-00599C?style=flat-square)
+![OpenMP](https://img.shields.io/badge/OpenMP-00599C?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-1E4D2B?style=flat-square)
+
+**Systems & CLI**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,vim" />
+</p>
+
+![Nano](https://img.shields.io/badge/Nano-000000?style=flat-square)
+
+**Infrastructure & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,nginx,firebase,supabase" />
 </p>
 
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -173,7 +191,18 @@ A small personal cluster built to experiment with parallel scientific workloads 
 ![NSSM](https://img.shields.io/badge/NSSM-0078D6?style=flat-square)
 ![Self-hosting](https://img.shields.io/badge/Self--hosting-2496ED?style=flat-square)
 ![Reverse Proxies](https://img.shields.io/badge/Reverse%20Proxies-1F88C0?style=flat-square)
-![VPS Infrastructure](https://img.shields.io/badge/VPS%20Infrastructure-6f42c1?style=flat-square)
+![VPS Infrastructure](https://img.shields.io/badge/VPS%20Infrastructure-6f42c6?style=flat-square)
+
+**Version Control & Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+**Design & Productivity**
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+  <img src=""/>
+</p>
 
 <h2 align="center">
   <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Rocket/animated/rocket_animated.png" width="30" alt="🚀" />
