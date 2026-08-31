@@ -61,6 +61,7 @@ Numerical methods for mathematical and physical problems - with a particular int
 ![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white)
 
 **<img src="https://em-content.zobj.net/source/microsoft-teams/400/high-voltage_26a1.png" width="20" alt="⚡" /> High-Performance Computing**
 Experimenting with building and managing a small multi-node HPC environment, with a long-term goal of scaling computational physics problems across multiple CPU cores and machines.
