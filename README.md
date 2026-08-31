@@ -31,17 +31,7 @@ Currently exploring:
 - <img src="https://em-content.zobj.net/source/microsoft-teams/400/robot_1f916.png" width="20" alt="🤖" /> Machine learning
 - <img src="https://em-content.zobj.net/source/microsoft-teams/400/abacus_1f9ee.png" width="20" alt="🧮" /> Mathematical modeling and computational physics
 
-For more go to [this](#----currently-exploring) section.
-
-<h2 align="center">
-  <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30" alt="📊" />
-  Github Stats
-</h2>
-
-<div align="center">
- <img src="https://fancy-github-stats.vercel.app/?username=tajultonim"/>
-</div>
-
+For more go to _[this](#----currently-exploring)_ section.
 
 <h2 align="center">
   <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Scientist/Light/animated/scientist_animated_light.png" width="30" alt="👨🏻‍🔬" />
@@ -53,25 +43,9 @@ My physics background naturally pulled me toward computational methods.
 **<img src="https://em-content.zobj.net/source/telegram/386/telescope_1f52d.webp" width="20" alt="🔭" /> Scientific Computing**
 Numerical methods for mathematical and physical problems - with a particular interest in ODE systems, numerical integration, optimization, and computational modeling.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-squarev&logo=sympy&logoColor=white)
-![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white)
-
 **<img src="https://em-content.zobj.net/source/microsoft-teams/400/high-voltage_26a1.png" width="20" alt="⚡" /> High-Performance Computing**
 Experimenting with building and managing a small multi-node HPC environment, with a long-term goal of scaling computational physics problems across multiple CPU cores and machines.
 
-![MPI](https://img.shields.io/badge/MPI-000000?style=flat-square)
-![mpi4py](https://img.shields.io/badge/mpi4py-3776AB?style=flat-square)
-![OpenMP](https://img.shields.io/badge/OpenMP-DD3333?style=flat-square)
-![Slurm](https://img.shields.io/badge/Slurm-00A0DF?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Distributed Computing](https://img.shields.io/badge/Distributed%20Computing-0a7bbb?style=flat-square)
 
 
 <h2 align="center">
@@ -140,6 +114,8 @@ A small personal cluster built to experiment with parallel scientific workloads 
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
 
+For more projects visit my _[repositories](https://github.com/tajultonim?tab=repositories)_.
+
 <h2 align="center">
   <img src="https://em-content.zobj.net/source/telegram/386/toolbox_1f9f0.webp" width="30" alt="🧰" />
   Tech Stack
@@ -147,12 +123,12 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,dart,fortran,julia,ts,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,fortran,julia,ts" />
 </p>
 
 **Web & Application Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,svelte,astro,vite,tailwind,webpack,wasm" />
+  <img src="https://skillicons.dev/icons?i=nextjs,flutter,svelte,astro,tailwind" />
 </p>
 
 **Databases & Backend**
@@ -178,27 +154,30 @@ A small personal cluster built to experiment with parallel scientific workloads 
 
 **Systems & CLI**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell,vim" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim" />
 </p>
 
 **Infrastructure & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,nginx,firebase,supabase,cloudflare,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,ubuntu,windows,azure,nginx,vercel" />
 </p>
 
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![NSSM](https://img.shields.io/badge/NSSM-0078D6?style=flat-square)
 
 **Version Control & Development Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio" />
 </p>
 
-**Design & Productivity**
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-  <img src="https://github.com/tajultonim/tajultonim/blob/main/assets/ms-office.png" width="50"/>
-</p>
+<h2 align="center">
+  <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30" alt="📊" />
+  Github Stats
+</h2>
+
+<div align="center">
+ <img src="https://fancy-github-stats.vercel.app/?username=tajultonim"/>
+</div>
+
 
 <h2 align="center">
   <img src="https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Rocket/animated/rocket_animated.png" width="30" alt="🚀" />
