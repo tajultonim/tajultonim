@@ -31,6 +31,8 @@ Currently exploring:
 - <img src="https://em-content.zobj.net/source/microsoft-teams/400/robot_1f916.png" width="20" alt="🤖" /> Machine learning
 - <img src="https://em-content.zobj.net/source/microsoft-teams/400/abacus_1f9ee.png" width="20" alt="🧮" /> Mathematical modeling and computational physics
 
+For more go to [this](#----currently-exploring) section.
+
 <h2 align="center">
   <img src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="30" alt="📊" />
   Github Stats
@@ -135,7 +137,7 @@ A small personal cluster built to experiment with parallel scientific workloads 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square)
+![Numba](https://img.shields.io/badge/Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
 
 <h2 align="center">
   <img src="https://em-content.zobj.net/source/telegram/386/toolbox_1f9f0.webp" width="30" alt="🧰" />
