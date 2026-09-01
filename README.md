@@ -99,6 +99,7 @@ An anonymous peer-to-peer chat experience built around a playful token economy -
 *Focus: real-time systems · WebSockets · anonymous matching · state management*
 
 🔗 [Live Demo](https://sneakychat.pages.dev/)
+🖥️ [Source](https://github.com/tajultonim/sneakychat)
 
 <h2>
 <img src="https://em-content.zobj.net/source/lg/307/desktop-computer_1f5a5-fe0f.png" width="26" alt="🖥️"/> 
