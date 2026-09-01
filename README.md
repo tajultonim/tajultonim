@@ -74,7 +74,7 @@ A production-oriented, self-hosted management platform for diagnostic centers.
 
 Also involved database migrations, deployment, reverse proxies, Windows packaging, backups, and self-hosted infrastructure - making it as much a systems project as a web application.
 
-🔗 [Live Demo](https://tidc.tvm.qd.je/)
+🔗 _[Live Demo](https://tidc.tvm.qd.je/)_
 
 ## <img src="https://em-content.zobj.net/source/telegram/386/fox_1f98a.webp" width="26" alt="🦊"/> SneakyChat
 
@@ -98,8 +98,8 @@ An anonymous peer-to-peer chat experience built around a playful token economy -
 
 *Focus: real-time systems · WebSockets · anonymous matching · state management*
 
-🔗 [Live Demo](https://sneakychat.pages.dev/)
-🖥️ [Source](https://github.com/tajultonim/sneakychat)
+🔗 _[Live Demo](https://sneakychat.pages.dev/)_
+🖥️ _[Source](https://github.com/tajultonim/sneakychat)_
 
 <h2>
 <img src="https://em-content.zobj.net/source/lg/307/desktop-computer_1f5a5-fe0f.png" width="26" alt="🖥️"/> 
