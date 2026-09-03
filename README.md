@@ -53,6 +53,24 @@ Experimenting with building and managing a small multi-node HPC environment, wit
   Things I've Built
 </h2>
 
+## <img src="https://em-content.zobj.net/source/microsoft-teams/400/shooting-star_1f320.png" width="26" alt="🌆"/> Vesper
+
+A small programming language and interpreter built from scratch in C++ to explore language internals—from lexing and parsing to AST construction and expression evaluation.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Compiler Architecture](https://img.shields.io/badge/Compiler-Architecture-FF6F00?style=flat-square)
+
+- **Lexical Analysis & Parsing** - tokenizer and recursive-descent parser building clean Abstract Syntax Trees
+- **Language Constructs** - `let` variable declarations, operator precedence, parenthesized expressions, and `print(...)`
+- **Runtime Environment** - tree-walk interpreter evaluating expressions and managing variable scopes
+- **Roadmap** - incremental evolution toward a complete compiled language backend
+
+*Focus: language design · recursive-descent parsing · AST evaluation · C++ system programming*
+
+🖥️ _[Source](https://github.com/tajultonim/vesper)_
+
+
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/400/hospital_1f3e5.png" width="26" alt="🏥"/> Diagnostic Center Management System
 
 
