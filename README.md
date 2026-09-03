@@ -55,7 +55,7 @@ Experimenting with building and managing a small multi-node HPC environment, wit
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/400/shooting-star_1f320.png" width="26" alt="🌆"/> Vesper
 
-A small programming language and interpreter built from scratch in C++ to explore language internals—from lexing and parsing to AST construction and expression evaluation.
+A programming language and tree-walk interpreter built from scratch in C++, exploring compiler and language-runtime fundamentals.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
