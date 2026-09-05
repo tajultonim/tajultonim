@@ -53,7 +53,7 @@ Experimenting with building and managing a small multi-node HPC environment, wit
   Things I've Built
 </h2>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/400/shooting-star_1f320.png" width="26" alt="🌆"/> Vesper
+##  <img src="https://github.com/tajultonim/vesper/blob/main/icons/vesper-icon.svg" width="26" alt="⭐"/> Vesper
 
 A programming language and tree-walk interpreter built from scratch in C++, exploring compiler and language-runtime fundamentals.
 
