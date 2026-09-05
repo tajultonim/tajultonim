@@ -53,22 +53,23 @@ Experimenting with building and managing a small multi-node HPC environment, wit
   Things I've Built
 </h2>
 
-##  <img src="https://github.com/tajultonim/vesper/blob/main/icons/vesper-icon.svg" width="26" alt="⭐"/> Vesper
+##  <img src="https://github.com/tajultonim/vesper/blob/main/icons/vesper-animated.svg" width="26" alt="⭐"/> Vesper
 
-A programming language and tree-walk interpreter built from scratch in C++, exploring compiler and language-runtime fundamentals.
+A programming language ecosystem featuring a tree-walk interpreter built from scratch in C++, a native code formatter (`vspfmt`), and a dedicated VS Code extension with TypeScript-style syntax highlighting.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Compiler Architecture](https://img.shields.io/badge/Compiler-Architecture-FF6F00?style=flat-square)
+![TypeScript Syntax](https://img.shields.io/badge/Syntax-TypeScript--Style-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Code Extension](https://img.shields.io/badge/VS_Code-Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docs](https://img.shields.io/badge/Docs-GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
-- **Lexical Analysis & Parsing** - tokenizer and recursive-descent parser building clean Abstract Syntax Trees
-- **Language Constructs** - `let` variable declarations, operator precedence, parenthesized expressions, and `print(...)`
-- **Runtime Environment** - tree-walk interpreter evaluating expressions and managing variable scopes
-- **Roadmap** - incremental evolution toward a complete compiled language backend
+- **Lexical Analysis & Parsing** - Tokenizer and recursive-descent parser generating clean Abstract Syntax Trees (AST).
+- **Runtime & Execution** - C++ tree-walk interpreter evaluating expressions and handling dynamic variable scoping.
+- **VS Code Integration** - Custom extension providing syntax highlighting, auto-formatting via `vspfmt`, and language tooling.
+- **Documentation & CI/CD** - Automated site deployment via GitHub Pages and automated cross-platform builds.
 
-*Focus: language design · recursive-descent parsing · AST evaluation · C++ system programming*
+*Focus: language design · AST evaluation · VS Code extension development · C++ system programming*
 
-🖥️ _[Source](https://github.com/tajultonim/vesper)_
+🌐 _[Documentation](https://tajultonim.github.io/vesper/)_ · 🖥️ _[Source](https://github.com/tajultonim/vesper)_ · 🧩 _[VS Code Extension for language support](https://github.com/tajultonim/vesper-vscode)_
 
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/400/hospital_1f3e5.png" width="26" alt="🏥"/> Diagnostic Center Management System
