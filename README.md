@@ -66,8 +66,6 @@ A small programming language ecosystem built from scratch in C++, with its own i
 
 🌐 *[Documentation](https://tajultonim.github.io/vesper/)* · 🖥️ *[Source](https://github.com/tajultonim/vesper)*
 
----
-
 ## <img src="https://github.com/okkhor-bn/okkhor/blob/main/asset/okkhor.png" width="26" alt="অ"/> Odrik বাংলা 
 
 A Bangla phonetic input engine and cross-platform keyboard ecosystem, with a language-independent core and platform-specific integrations.
@@ -83,8 +81,6 @@ A Bangla phonetic input engine and cross-platform keyboard ecosystem, with a lan
 
 🖥️ *[Source](https://github.com/orgs/odrik-bn)*
 
----
-
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/400/hospital_1f3e5.png" width="26" alt="🏥"/> Diagnostic Center Management System
 
 A self-hosted management platform for diagnostic-center operations, combining application development with database, deployment, and infrastructure work.
@@ -98,8 +94,6 @@ A self-hosted management platform for diagnostic-center operations, combining ap
 *Focus: full-stack systems · databases · deployment · self-hosting*
 
 🔗 *[Live Demo](https://tidc.tvm.qd.je/)*
-
----
 
 ## <img src="https://em-content.zobj.net/source/telegram/386/fox_1f98a.webp" width="26" alt="🦊"/> SneakyChat
 
@@ -116,8 +110,6 @@ An anonymous real-time chat application exploring lightweight social interaction
 *Focus: real-time systems · WebSockets · state management*
 
 🔗 *[Live Demo](https://sneakychat.pages.dev/)* · 🖥️ *[Source](https://github.com/tajultonim/sneakychat)*
-
----
 
 ## <img src="https://em-content.zobj.net/source/lg/307/desktop-computer_1f5a5-fe0f.png" width="26" alt="🖥️"/>  Experimental HPC Cluster
 
