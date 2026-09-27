@@ -60,7 +60,7 @@ Experimenting with building and managing a small multi-node HPC environment, wit
 A small programming language ecosystem built from scratch in C++, with its own interpreter, formatter, tooling, and editor integration.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![TypeScript Syntax](https://img.shields.io/badge/Syntax-TypeScript--Style-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CMake](https://img.shields.io/badge/Cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![VS Code Extension](https://img.shields.io/badge/VS_Code-Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
@@ -73,6 +73,13 @@ A small programming language ecosystem built from scratch in C++, with its own i
 ## <img src="https://github.com/okkhor-bn/okkhor/blob/main/asset/okkhor.png" width="26" alt="অ"/> Odrik বাংলা 
 
 A Bangla phonetic input engine and cross-platform keyboard ecosystem, with a language-independent core and platform-specific integrations.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/Cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-00A4EF.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 *Focus: text processing · transliteration · language technology · systems integration*
 
