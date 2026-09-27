@@ -53,8 +53,6 @@ Experimenting with building and managing a small multi-node HPC environment, wit
   Things I've Built
 </h2>
 
-##
-
 ## <img src="https://github.com/tajultonim/vesper/blob/main/icons/vesper-animated.svg" width="26" alt="⭐"/> Vesper
 
 A small programming language ecosystem built from scratch in C++, with its own interpreter, formatter, tooling, and editor integration.
