@@ -66,9 +66,9 @@ A small programming language ecosystem built from scratch in C++, with its own i
 
 🌐 *[Documentation](https://tajultonim.github.io/vesper/)* · 🖥️ *[Source](https://github.com/tajultonim/vesper)*
 
-## <img src="https://github.com/okkhor-bn/okkhor/blob/main/asset/okkhor.png" width="26" alt="অ"/> Odrik বাংলা 
+## <img src="https://github.com/odri-bn/odri/blob/main/asset/odri.png" width="26" alt="অ"/> Odri বাংলা 
 
-A Bangla phonetic input engine and cross-platform keyboard ecosystem, with a language-independent core and platform-specific integrations.
+A Bangla keyboard ecosystem, with a speed focused intuitive phonetic layout, engine and platform-specific integrations.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/Cmake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -79,7 +79,7 @@ A Bangla phonetic input engine and cross-platform keyboard ecosystem, with a lan
 
 *Focus: text processing · transliteration · language technology · systems integration*
 
-🖥️ *[Source](https://github.com/orgs/odrik-bn)*
+🖥️ *[Source](https://github.com/orgs/odri-bn)*
 
 ## <img src="https://em-content.zobj.net/source/microsoft-teams/400/hospital_1f3e5.png" width="26" alt="🏥"/> Diagnostic Center Management System
 
